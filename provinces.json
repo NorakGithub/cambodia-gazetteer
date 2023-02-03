@@ -1,0 +1,227 @@
+[
+  {
+    "id": "banteay_meanchey",
+    "code": "01",
+    "local": "ខេត្តបន្ទាយមានជ័យ",
+    "english": "Banteay Meanchey Province",
+    "number_of_district": "2",
+    "number_of_commune": "7",
+    "number_of_village": "0"
+  },
+  {
+    "id": "battambang",
+    "code": "02",
+    "local": "ខេត្តបាត់ដំបង",
+    "english": "Battambang Province",
+    "number_of_district": "1",
+    "number_of_commune": "13",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kampong_cham",
+    "code": "03",
+    "local": "ខេត្តកំពង់ចាម",
+    "english": "Kampong Cham Province",
+    "number_of_district": "1",
+    "number_of_commune": "9",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kampong_chhnang",
+    "code": "04",
+    "local": "ខេត្តកំពង់ឆ្នាំង",
+    "english": "Kampong Chhnang Province",
+    "number_of_district": "1",
+    "number_of_commune": "7",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kampong_speu",
+    "code": "05",
+    "local": "ខេត្តកំពង់ស្ពឺ",
+    "english": "Kampong Speu Province",
+    "number_of_district": "2",
+    "number_of_commune": "7",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kampong_thom",
+    "code": "06",
+    "local": "ខេត្តកំពង់ធំ",
+    "english": "Kampong Thom Province",
+    "number_of_district": "1",
+    "number_of_commune": "8",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kampot",
+    "code": "07",
+    "local": "ខេត្តកំពត",
+    "english": "Kampot Province",
+    "number_of_district": "2",
+    "number_of_commune": "7",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kandal",
+    "code": "08",
+    "local": "ខេត្តកណ្ដាល",
+    "english": "Kandal Province",
+    "number_of_district": "3",
+    "number_of_commune": "10",
+    "number_of_village": "0"
+  },
+  {
+    "id": "koh_kong",
+    "code": "09",
+    "local": "ខេត្តកោះកុង",
+    "english": "Koh Kong Province",
+    "number_of_district": "1",
+    "number_of_commune": "6",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kratie",
+    "code": "10",
+    "local": "ខេត្តក្រចេះ",
+    "english": "Kratie Province",
+    "number_of_district": "1",
+    "number_of_commune": "6",
+    "number_of_village": "0"
+  },
+  {
+    "id": "mondul_kiri",
+    "code": "11",
+    "local": "ខេត្តមណ្ឌលគិរី",
+    "english": "Mondul Kiri Province",
+    "number_of_district": "1",
+    "number_of_commune": "4",
+    "number_of_village": "0"
+  },
+  {
+    "id": "phnom_penh",
+    "code": "12",
+    "local": "រាជធានីភ្នំពេញ",
+    "english": "Phnom Penh Capital",
+    "number_of_district": "0",
+    "number_of_commune": "0",
+    "number_of_village": "14"
+  },
+  {
+    "id": "preah_vihear",
+    "code": "13",
+    "local": "ខេត្តព្រះវិហារ",
+    "english": "Preah Vihear Province",
+    "number_of_district": "1",
+    "number_of_commune": "7",
+    "number_of_village": "0"
+  },
+  {
+    "id": "prey_veng",
+    "code": "14",
+    "local": "ខេត្តព្រៃវែង",
+    "english": "Prey Veng Province",
+    "number_of_district": "1",
+    "number_of_commune": "12",
+    "number_of_village": "0"
+  },
+  {
+    "id": "pursat",
+    "code": "15",
+    "local": "ខេត្តពោធិ៍សាត់",
+    "english": "Pursat Province",
+    "number_of_district": "1",
+    "number_of_commune": "6",
+    "number_of_village": "0"
+  },
+  {
+    "id": "ratanak_kiri",
+    "code": "16",
+    "local": "ខេត្តរតនគិរី",
+    "english": "Ratanak Kiri Province",
+    "number_of_district": "1",
+    "number_of_commune": "8",
+    "number_of_village": "0"
+  },
+  {
+    "id": "siemreap",
+    "code": "17",
+    "local": "ខេត្តសៀមរាប",
+    "english": "Siemreap Province",
+    "number_of_district": "1",
+    "number_of_commune": "11",
+    "number_of_village": "0"
+  },
+  {
+    "id": "preah_sihanouk",
+    "code": "18",
+    "local": "ខេត្តព្រះសីហនុ",
+    "english": "Preah Sihanouk Province",
+    "number_of_district": "2",
+    "number_of_commune": "3",
+    "number_of_village": "0"
+  },
+  {
+    "id": "stung_treng",
+    "code": "19",
+    "local": "ខេត្តស្ទឹងត្រែង",
+    "english": "Stung Treng Province",
+    "number_of_district": "1",
+    "number_of_commune": "5",
+    "number_of_village": "0"
+  },
+  {
+    "id": "svay_rieng",
+    "code": "20",
+    "local": "ខេត្តស្វាយរៀង",
+    "english": "Svay Rieng Province",
+    "number_of_district": "2",
+    "number_of_commune": "6",
+    "number_of_village": "0"
+  },
+  {
+    "id": "takeo",
+    "code": "21",
+    "local": "ខេត្តតាកែវ",
+    "english": "Takeo Province",
+    "number_of_district": "1",
+    "number_of_commune": "9",
+    "number_of_village": "0"
+  },
+  {
+    "id": "oddar_meanchey",
+    "code": "22",
+    "local": "ខេត្តឧត្ដរមានជ័យ",
+    "english": "Oddar Meanchey Province",
+    "number_of_district": "1",
+    "number_of_commune": "4",
+    "number_of_village": "0"
+  },
+  {
+    "id": "kep",
+    "code": "23",
+    "local": "ខេត្តកែប",
+    "english": "Kep Province",
+    "number_of_district": "1",
+    "number_of_commune": "1",
+    "number_of_village": "0"
+  },
+  {
+    "id": "pailin",
+    "code": "24",
+    "local": "ខេត្តប៉ៃលិន",
+    "english": "Pailin Province",
+    "number_of_district": "1",
+    "number_of_commune": "1",
+    "number_of_village": "0"
+  },
+  {
+    "id": "tboung_khmum",
+    "code": "25",
+    "local": "ខេត្តត្បូងឃ្មុំ",
+    "english": "Tboung Khmum Province",
+    "number_of_district": "1",
+    "number_of_commune": "6",
+    "number_of_village": "0"
+  }
+]

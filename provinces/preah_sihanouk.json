@@ -1,0 +1,1375 @@
+[
+  {
+    "type": "ក្រុង",
+    "code": "1801",
+    "english": "Preah Sihanouk",
+    "local": "ព្រះសីហនុ",
+    "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+    "official_note": "ត្រួវបានប្តូរឈ្មោះខណ្ឌមិត្តភាព ទៅជាក្រុងព្រះសីហនុ",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "សង្កាត់",
+        "code": "180101",
+        "english": "lek Muoy",
+        "local": "លេខ១",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18010101",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010102",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010103",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "180102",
+        "english": "Pir",
+        "local": "២",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18010201",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010202",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010203",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "180103",
+        "english": "Bei",
+        "local": "៣",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18010301",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010302",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010303",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "180104",
+        "english": "Buon",
+        "local": "៤",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18010401",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010402",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010403",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010404",
+            "english": "Phum Buon",
+            "local": "ភូមិ៤",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010405",
+            "english": "Phum Pram",
+            "local": "ភូមិ៥",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18010406",
+            "english": "Phum Prammuoy",
+            "local": "ភូមិ៦",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1802",
+    "english": "Prey Nob",
+    "local": "ព្រៃនប់",
+    "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+    "official_note": "ត្រូវបានប្តូរខណ្ឌព្រៃនប់ទៅជាស្រុកព្រៃនប់",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "180201",
+        "english": "Andoung Thma",
+        "local": "អណ្ដូងថ្ម",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អណ្តូងថ្មទៅជាឃុំអណ្តូងថ្ម",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020101",
+            "english": "Andoung Thma",
+            "local": "អណ្ដូងថ្ម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020102",
+            "english": "Banteay Prei",
+            "local": "បន្ទាយប្រីយ៍",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020103",
+            "english": "Ou Trav",
+            "local": "អូរត្រាវ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020104",
+            "english": "Trapeang S'oy Ti Muoy",
+            "local": "ត្រពាំងស្អុយទី១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020105",
+            "english": "Trapeang S'oy Ti Pir",
+            "local": "ត្រពាំងស្អុយទី២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180202",
+        "english": "Boeng Ta Prum",
+        "local": "បឹងតាព្រហ្ម",
+        "reference": "អនុក្រឹត្យលេខ ៤៩៣ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់បឹងតាព្រហ្មទៅជាឃុំបឹងតាព្រហ្ម",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020201",
+            "english": "Boeng Chum",
+            "local": "បឹងជុំ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020202",
+            "english": "Boeng Ta Prum",
+            "local": "បឹងតាព្រហ្ម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020203",
+            "english": "Boeng Ta Srei",
+            "local": "បឹងតាស្រី",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020204",
+            "english": "Doun Loy",
+            "local": "ដូនលយ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020205",
+            "english": "Phnum Touch",
+            "local": "ភ្នំតូច",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020206",
+            "english": "Tuek Chenh",
+            "local": "ទឹកចេញ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180203",
+        "english": "Bet Trang",
+        "local": "បិតត្រាង",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់បិតត្រាងទៅជាឃុំបិតត្រាង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020301",
+            "english": "Chamnaot Ream",
+            "local": "ចំណោតរាម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020302",
+            "english": "Kokir",
+            "local": "គគីរ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020303",
+            "english": "Pu Thoeang",
+            "local": "ពូធឿង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180204",
+        "english": "Cheung Kou",
+        "local": "ជើងគោ",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ជើងគោទៅជាឃុំជើងគោ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020401",
+            "english": "Chamkar Kausu",
+            "local": "ចំការកៅស៊ូ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020402",
+            "english": "Cheung Kou",
+            "local": "ជើងគោ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020404",
+            "english": "Trapeang Kea",
+            "local": "ត្រពាំងគា",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020405",
+            "english": "Trapeang Mul",
+            "local": "ត្រពាំងមូល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180205",
+        "english": "Ou Chrov",
+        "local": "អូរជ្រៅ",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អូរជ្រៅទៅជាឃុំអូរជ្រៅ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020501",
+            "english": "Kaoh Khyang",
+            "local": "កោះខ្យង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020502",
+            "english": "Ou Chrov",
+            "local": "អូរជ្រៅ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020503",
+            "english": "Srae Cham Kraom",
+            "local": "ស្រែចាមក្រោម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020504",
+            "english": "Srae Cham Leu",
+            "local": "ស្រែចាមលើ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020505",
+            "english": "Srae Knong",
+            "local": "ស្រែក្នុង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180206",
+        "english": "Ou Oknha Heng",
+        "local": "អូរឧកញ៉ាហេង",
+        "reference": "អនុ្កក្រឹត្យលេខ ០៧ អនុក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អូរឧកញ៉ាហេងទៅជាឃុំឧកញ៉ាហេង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020601",
+            "english": "Bat Kokir",
+            "local": "បត់គគីរ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020602",
+            "english": "Ou Chamnar",
+            "local": "អូរចំណារ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020603",
+            "english": "Ou Ta Pang",
+            "local": "អូរតាប៉ាង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020604",
+            "english": "Ou Ta Sek",
+            "local": "អូរតាសេក",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020605",
+            "english": "Ou Oknha Heng",
+            "local": "អូរឧកញ៉ាហេង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180207",
+        "english": "Prey Nob",
+        "local": "ព្រៃនប់",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ព្រៃនប់ទៅជាឃុំព្រៃនប់",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020701",
+            "english": "Bat Ser Moan",
+            "local": "បត់សិរមាន់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020702",
+            "english": "Prey Nob Muoy",
+            "local": "ព្រៃនប់១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020703",
+            "english": "Prey Nob Pir",
+            "local": "ព្រៃនប់២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020704",
+            "english": "Prey Nob Bei",
+            "local": "ព្រៃនប់៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020705",
+            "english": "Baek Krang",
+            "local": "បែកក្រង់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180208",
+        "english": "Ream",
+        "local": "រាម",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់រាមទៅឃុំរាម",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020801",
+            "english": "Ong",
+            "local": "អុង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020802",
+            "english": "Ream",
+            "local": "រាម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020804",
+            "english": "Smach Daeng",
+            "local": "ស្មាច់ដែង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020805",
+            "english": "Thma Thum",
+            "local": "ថ្មធំ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180209",
+        "english": "Sameakki",
+        "local": "សាមគ្គី",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់សាមគ្គីទៅជាឃុំសាមគ្គី",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18020901",
+            "english": "Ta Aong Thum",
+            "local": "តាអោងធំ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020902",
+            "english": "Boeng Reang",
+            "local": "បឹងរាំង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18020903",
+            "english": "Preaek Kranh",
+            "local": "ព្រែកក្រាញ់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180210",
+        "english": "Samrong",
+        "local": "សំរុង",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់សំរុងទៅជាឃុំសំរុង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021001",
+            "english": "Chong Ou",
+            "local": "ចុងអូរ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021002",
+            "english": "Samrong Kandal",
+            "local": "សំរុងកណ្ដាល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021003",
+            "english": "Samrong Kraom",
+            "local": "សំរុងក្រោម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021004",
+            "english": "Samrong Leu",
+            "local": "សំរុងលើ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021005",
+            "english": "Ou Tracheak Chet",
+            "local": "អូត្រជាក់ចិត្ដ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180211",
+        "english": "Tuek L'ak",
+        "local": "ទឹកល្អក់",
+        "reference": "អនុក្រឹត្យលេខ ០៧  អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ទឹកល្អក់ទៅជាឃុំទឹកល្អក់",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021101",
+            "english": "Tuol",
+            "local": "ទួល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021102",
+            "english": "Preaek Ph'av",
+            "local": "ព្រែកផ្អាវ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021103",
+            "english": "Kampong Smach Touch",
+            "local": "កំពង់ស្មាច់តូច",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021104",
+            "english": "Chrolong",
+            "local": "ជ្រលង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180212",
+        "english": "Tuek Thla",
+        "local": "ទឹកថ្លា",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ទឹកថ្លាទៅជាឃុំទឹកថ្លា",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021201",
+            "english": "Preaek Pras",
+            "local": "ព្រែកប្រស់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021202",
+            "english": "Preaek Toal",
+            "local": "ព្រែកទាល់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021203",
+            "english": "Preaek Sangkae",
+            "local": "ព្រែកសង្កែ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021204",
+            "english": "Kampong Chen",
+            "local": "កំពង់ចិន",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180213",
+        "english": "Tuol Totueng",
+        "local": "ទួលទទឹង",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ទួលទទឹងទៅជាឃុំទួលទទឹង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021301",
+            "english": "Tuol Totueng Ti Muoy",
+            "local": "ទួលទទឹងទី១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021302",
+            "english": "Tuol Totueng Ti Pir",
+            "local": "ទួលទទឹងទី២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021303",
+            "english": "Tuol Totueng Ti Bei",
+            "local": "ទួលទទឹងទី៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021304",
+            "english": "Ampu Khmau",
+            "local": "អំពូខ្មៅ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180214",
+        "english": "Veal Renh",
+        "local": "វាលរេញ",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់វាលរេញទៅជាឃុំវាលរេញ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021401",
+            "english": "Boeng Veaeng",
+            "local": "បឹងវែង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021402",
+            "english": "Veal Meas",
+            "local": "វាលមាស",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021403",
+            "english": "Veal Thum",
+            "local": "វាលធំ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180215",
+        "english": "Ta Ney",
+        "local": "តានៃ",
+        "reference": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី",
+        "official_note": "ឃុំបង្កើតថ្មី",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18021501",
+            "english": "Ta Pov",
+            "local": "តាពៅ",
+            "reference": "អនុក្រឹត្យលេខ ១៦៤ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦",
+            "official_note": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី ថ្ងៃទី១២ សីហា ២០១៦",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021502",
+            "english": "Ta Ney",
+            "local": "តានៃ",
+            "reference": "អនុក្រឹត្យលេខ ១៦៤ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦",
+            "official_note": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី ថ្ងៃទី១២ សីហា ២០១៦",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021503",
+            "english": "Monorom",
+            "local": "មនោរម្យ",
+            "reference": "អនុក្រឹត្យលេខ ១៦៤ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦",
+            "official_note": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី ថ្ងៃទី១២ សីហា ២០១៦",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021504",
+            "english": "Svay",
+            "local": "ស្វាយ",
+            "reference": "អនុក្រឹត្យលេខ ១៦៤ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦",
+            "official_note": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី ថ្ងៃទី១២ សីហា ២០១៦",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18021505",
+            "english": "Anlong Krapeu",
+            "local": "អន្លង់ក្រពើ",
+            "reference": "អនុក្រឹត្យលេខ ១៦៤ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦",
+            "official_note": "អនុក្រឹត្យ ១៦៤ អនក្រ.បក ឃុំបង្កើតថ្មី ថ្ងៃទី១២ សីហា ២០១៦",
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1803",
+    "english": "Stueng Hav",
+    "local": "ស្ទឹងហាវ",
+    "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+    "official_note": "ត្រូវបានប្តូរខណ្ឌស្ទឹងហាវទៅជាស្រុកស្ទឹងហាវ",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "180301",
+        "english": "Kampenh",
+        "local": "កំពេញ",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់កំពេញទៅជាឃុំកំពេញ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18030101",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030102",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180302",
+        "english": "Ou Treh",
+        "local": "អូរត្រេះ",
+        "reference": "អនក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អូរត្រេះទៅជាឃុំអូរត្រេះ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18030201",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030202",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030203",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030204",
+            "english": "Phum Buon",
+            "local": "ភូមិ៤",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180303",
+        "english": "Tumnob Rolok",
+        "local": "ទំនប់រលក",
+        "reference": "អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ទំនប់រលកទៅជាឃុំទំនប់់រលក",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18030301",
+            "english": "Phum Muoy",
+            "local": "ភូមិ១",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030302",
+            "english": "Phum Pir",
+            "local": "ភូមិ២",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030303",
+            "english": "Phum Bei",
+            "local": "ភូមិ៣",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030304",
+            "english": "Phum Buon",
+            "local": "ភូមិ៤",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180304",
+        "english": "Kaev Phos",
+        "local": "កែវផុស",
+        "reference": "អនុក្រឹត្យ ១៨១ ថ្ងៃទី ០៩ សីហា ២០១១",
+        "official_note": "អនុក្រឹត្យ ១៨១ ថ្ងៃទី ០៩ សីហា ២០១១",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18030401",
+            "english": "Kaev Phos",
+            "local": "កែវផុស",
+            "reference": "អនុក្រឹត្យ ១៨១ ថ្ងៃទី ០៩ សីហា ២០១១",
+            "official_note": "អនុក្រឹត្យ ១៨១ ថ្ងៃទី ០៩ សីហា ២០១១",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030402",
+            "english": "Rithy 1",
+            "local": "ឫទ្ធី១",
+            "reference": "ប្រកាសលេខ ១៨៧១ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18030403",
+            "english": "Rithy 2",
+            "local": "ឫទ្ធី២",
+            "reference": "ប្រកាសលេខ ១៨៧១ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1804",
+    "english": "Kampong Seila",
+    "local": "កំពង់សីលា",
+    "reference": "ព្រះរាជក្រឹត្យលេខ នស/រកត/១២០៨/១៣៨៥",
+    "official_note": "ត្រូវបានកាត់ស្រុកកំពង់សីលាទាំងមូលឱ្យមកខេត្តព្រះសីហនុ",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "180401",
+        "english": "Chamkar Luong",
+        "local": "ចំការហ្លួង",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18040101",
+            "english": "Chamkar Luong",
+            "local": "ចំការហ្លូង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040102",
+            "english": "Boeng Trach",
+            "local": "បឹងត្រាច",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040103",
+            "english": "Samdech Ta",
+            "local": "សម្ដេចតា",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180402",
+        "english": "Kampong Seila",
+        "local": "កំពង់សីលា",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18040201",
+            "english": "Cham Srei",
+            "local": "ចាំស្រី",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040202",
+            "english": "Krang At",
+            "local": "ក្រាំងអាត់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040203",
+            "english": "Thmei",
+            "local": "ថ្មី",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040204",
+            "english": "Veal",
+            "local": "វាល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180403",
+        "english": "Ou Bak Roteh",
+        "local": "អូរបាក់រទេះ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18040301",
+            "english": "Prey Praseth",
+            "local": "ព្រៃប្រសិទ្ធ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040302",
+            "english": "Stueng Chral",
+            "local": "ស្ទឹងច្រាល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040303",
+            "english": "Stueng Samraong",
+            "local": "ស្ទឹងសំរោង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "180404",
+        "english": "Stueng Chhay",
+        "local": "ស្ទឹងឆាយ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18040401",
+            "english": "Kirivoan",
+            "local": "គីរីវន្ដ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040402",
+            "english": "Ou Ta Hoay",
+            "local": "អូរតាហយ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040403",
+            "english": "Stueng Chhay Cheung",
+            "local": "ស្ទឹងឆាយជើង",
+            "reference": null,
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18040404",
+            "english": "Stueng Chhay Tbong",
+            "local": "ស្ទឹងឆាយត្បូង",
+            "reference": null,
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ក្រុង",
+    "code": "1805",
+    "english": "Kaoh Rung",
+    "local": "កោះរ៉ុង",
+    "reference": "អនុក្រឹត្យលេខ០២អនក្រ.បក",
+    "official_note": "បង្កើតក្រុងថ្មីដោយយក២សង្កាត់ពីក្រុងព្រះសីហនុ",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "សង្កាត់",
+        "code": "180501",
+        "english": "Kaoh Rung",
+        "local": "កោះរ៉ុង",
+        "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+        "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18050101",
+            "english": "Daem Thkov",
+            "local": "ដើមថ្កូវ",
+            "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+            "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18050102",
+            "english": "Preaek Svay",
+            "local": "ព្រែកស្វាយ",
+            "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+            "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "180502",
+        "english": "Koah Rung Sonlem",
+        "local": "កោះរ៉ុងសន្លឹម",
+        "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ១៦៥ អនក្រ.បក ថ្ងៃទី១២ សីហា ២០១៦ សង្កាត់ថ្មី",
+        "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "18050201",
+            "english": "Kaoh Touch",
+            "local": "កោះតូច",
+            "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+            "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "18050202",
+            "english": "Kaoh Rung Sanloem",
+            "local": "កោះរ៉ុងសន្លឹម",
+            "reference": "អនុក្រឹត្យលេខ ០២ អនក្រ.បក,អនុក្រឹត្យលេខ ០៧ អនក្រ.បក",
+            "official_note": "កាត់ទៅក្រុងកោះរ៉ុង",
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  }
+]

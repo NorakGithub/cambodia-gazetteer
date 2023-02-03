@@ -1,0 +1,1116 @@
+[
+  {
+    "type": "ស្រុក",
+    "code": "1101",
+    "english": "Kaev Seima",
+    "local": "កែវសីមា",
+    "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+    "official_note": null,
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "110101",
+        "english": "Chong Phlah",
+        "local": "ចុងផ្លាស់",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11010101",
+            "english": "Pu Tong",
+            "local": "ពូទុង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូទង់ទៅ ពូទុង",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010102",
+            "english": "Pu Huong",
+            "local": "ពូហ៊ួង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "ិកែឈ្មោះពូហ៊ួនទៅ ពូហ៊ួង់",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010103",
+            "english": "Khnhaeng",
+            "local": "ខ្ញែង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110102",
+        "english": "Memang",
+        "local": "មេម៉ង់",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11010201",
+            "english": "Pu Ngoal",
+            "local": "ពូរង៉ោល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូង៉ោលទៅ ទៅពូរង៉ោល",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010202",
+            "english": "Pu Cha",
+            "local": "ពូចា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010203",
+            "english": "Pu Nhav",
+            "local": "ពូញ៉ាវ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូញ៉ៅទៅ ពូញ៉ាវ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010204",
+            "english": "Pu Keh",
+            "local": "ពូកេះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010205",
+            "english": "Tuol",
+            "local": "ទួល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110103",
+        "english": "Srae Chhuk",
+        "local": "ស្រែឈូក",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11010301",
+            "english": "Kmoum",
+            "local": "ក្មូម",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010302",
+            "english": "Chak Char",
+            "local": "ចក់ចារ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010303",
+            "english": "Ronaeng",
+            "local": "រណែង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010305",
+            "english": "Preah",
+            "local": "ព្រះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010306",
+            "english": "Khtong",
+            "local": "ខ្ទង់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010307",
+            "english": "Srae Andoal",
+            "local": "ស្រែអណ្ដោល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110104",
+        "english": "Srae Khtum",
+        "local": "ស្រែខ្ទុម",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11010401",
+            "english": "Ou Am",
+            "local": "អូរអាម",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010402",
+            "english": "Ou Rona",
+            "local": "អូររណា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010403",
+            "english": "Srae Ampil",
+            "local": "ស្រែអំពិល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010405",
+            "english": "Srae Lvi",
+            "local": "ស្រែល្វី",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010406",
+            "english": "Chhnaeng",
+            "local": "ឆ្នែង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010407",
+            "english": "Srae Khtum",
+            "local": "ស្រែខ្ទុម",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010408",
+            "english": "Trapeang Pha er",
+            "local": "ត្រពាំងផ្អេរ",
+            "reference": "លេខប្រកាស ៤៥៩៩ ប្រ.ក",
+            "official_note": "បំបែកចេញពីភូមិ ឆ្នែង",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010409",
+            "english": "La Pa Khe",
+            "local": "ឡាប៉ាខេ",
+            "reference": "លេខប្រកាស ៤៥៩៩ ប្រ.ក",
+            "official_note": "បំបែកចេញពីភូមិ អូរអាម",
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110105",
+        "english": "Srae Preah",
+        "local": "ស្រែព្រះ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11010501",
+            "english": "Hkati",
+            "local": "ហ្គាទី",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010502",
+            "english": "Pu Cha",
+            "local": "ពូចា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010503",
+            "english": "Pu Kong",
+            "local": "ពូគង់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូកុងទៅ ពូគង់",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010504",
+            "english": "Ou Chra",
+            "local": "អូរច្រា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11010505",
+            "english": "Srae Preah",
+            "local": "ស្រែព្រះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1102",
+    "english": "Kaoh Nheaek",
+    "local": "កោះញែក",
+    "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+    "official_note": null,
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "110201",
+        "english": "Nang Khi Lik",
+        "local": "ណងឃីលិក",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020101",
+            "english": "Chimat",
+            "local": "ជីមាត",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020102",
+            "english": "Nang Buo",
+            "local": "ណងប៊ួ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះណងប៊ួរទៅ ណងប៊ួ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020103",
+            "english": "Kaoh Moeal Leu",
+            "local": "កោះម្យើលលើ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះកោះមឿលលើទៅ កោះម្យើលលើ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020104",
+            "english": "Kaoh Moeal Kraom",
+            "local": "កោះម្យើលក្រោម",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះកោះមឿលក្រោមទៅ កោះម្យើលក្រោម",
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110202",
+        "english": "A Buon Leu",
+        "local": "អ បួនលើ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020201",
+            "english": "Tuol",
+            "local": "ទួល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020202",
+            "english": "A Buon",
+            "local": "អ បួន",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះអបួនលើទៅ អបួន",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020203",
+            "english": "Antreh",
+            "local": "អន្ដ្រេះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110203",
+        "english": "Roya",
+        "local": "រយ៉",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020301",
+            "english": "Roya",
+            "local": "រយ៉",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020303",
+            "english": "Memom",
+            "local": "មេមុំ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះម៉ែម៉ូមទៅ មេមុំ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020304",
+            "english": "Kdaoy",
+            "local": "ក្ដោយ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020305",
+            "english": "Rovak",
+            "local": "រវ៉ាក់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110204",
+        "english": "Sokh Sant",
+        "local": "សុខសាន្ដ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020401",
+            "english": "Klang Lae",
+            "local": "ក្លង់ឡែ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020402",
+            "english": "Anhchoar",
+            "local": "អញ្ជ័រ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះអូរអញ្ជ័រទៅ អញ្ជ័រ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020403",
+            "english": "Srae Thum",
+            "local": "ស្រែធំ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020404",
+            "english": "Chi Klab",
+            "local": "ជីក្លប់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះជីក្លបលើទៅ ជីក្លប់",
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110205",
+        "english": "Srae Huy",
+        "local": "ស្រែហ៊ុយ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020501",
+            "english": "Srae Huy",
+            "local": "ស្រែហ៊ុយ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020502",
+            "english": "Chhul",
+            "local": "ឈូល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110206",
+        "english": "Srae Sangkum",
+        "local": "ស្រែសង្គម",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11020601",
+            "english": "Mean Chey",
+            "local": "មានជ័យ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020602",
+            "english": "Serei Mean Rith",
+            "local": "សិរីមានរិទ្ធិ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះសេរីមានរិទ្ធទៅ សិរីមានរិទ្ធិ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020603",
+            "english": "Serei Mongkol",
+            "local": "សិរីមង្គល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះសេរីមង្គលទៅ សិរីមង្គល",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020604",
+            "english": "Chamraeun",
+            "local": "ចំរើន",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020605",
+            "english": "Kbal Chrouy",
+            "local": "ក្បាលជ្រោយ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020606",
+            "english": "Kbal Kaoh",
+            "local": "ក្បាលកោះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020607",
+            "english": "Reangsei",
+            "local": "រង្សី",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020608",
+            "english": "Serei Rodth",
+            "local": "សិរីរដ្ឋ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះសេរីរដ្ឋទៅ ាសិរីរដ្ឋ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11020609",
+            "english": "Ou Yeh",
+            "local": "អូរយ៉េះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1103",
+    "english": "Ou Reang",
+    "local": "អូររាំង",
+    "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+    "official_note": null,
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "110301",
+        "english": "Dak Dam",
+        "local": "ដាក់ដាំ",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11030101",
+            "english": "Pu Traeng",
+            "local": "ពូត្រែង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11030102",
+            "english": "Pu Leh",
+            "local": "ពូឡេះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11030103",
+            "english": "Pu Chhab",
+            "local": "ពូឆប",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110302",
+        "english": "Saen Monourom",
+        "local": "សែនមនោរម្យ",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11030201",
+            "english": "Pu Hoam",
+            "local": "ពូហ្យាម",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូហ៊ាំទៅ ពូហ្យាម",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11030202",
+            "english": "Andoung Kraloeng",
+            "local": "អណ្ដូងក្រឡឹង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11030203",
+            "english": "Pu Tru",
+            "local": "ពូទ្រូ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11030204",
+            "english": "Pu Rang",
+            "local": "ពូរ៉ាង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ស្រុក",
+    "code": "1104",
+    "english": "Pech Chreada",
+    "local": "ពេជ្រាដា",
+    "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+    "official_note": null,
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "110401",
+        "english": "Krang Teh",
+        "local": "ក្រង់តេះ",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11040101",
+            "english": "Krang Teh",
+            "local": "ក្រង់តេះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040102",
+            "english": "Lau Romiet",
+            "local": "ឡៅរមៀត",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040103",
+            "english": "Pu Rapet",
+            "local": "ពូរ៉ាប៉េត",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040104",
+            "english": "Tram Kach",
+            "local": "ត្រាំកាច់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110402",
+        "english": "Pu Chrey",
+        "local": "ពូជ្រៃ",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11040201",
+            "english": "Me Pai",
+            "local": "មេប៉ៃ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះម៉ែប៉ៃទៅ មេប៉ៃ",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040202",
+            "english": "Pu Chrey Chang",
+            "local": "ពូជ្រៃចាង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូជ្រៃយ៉ាងទៅ ពូជ្រៃចាង",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040203",
+            "english": "Pu Chrey Chong Phang",
+            "local": "ពូជ្រៃចុងផាង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040204",
+            "english": "Pu Tang",
+            "local": "ពូតាង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110403",
+        "english": "Srae Ampum",
+        "local": "ស្រែអំពូម",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11040301",
+            "english": "Pu Krouch",
+            "local": "ពូក្រូច",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040302",
+            "english": "Pu Radaet",
+            "local": "ពូរ៉ាដែត",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040303",
+            "english": "Pu Kraeng",
+            "local": "ពូក្រេង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះគ្រែងទៅ ពូក្រេង",
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "110404",
+        "english": "Bu Sra",
+        "local": "ប៊ូស្រា",
+        "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11040401",
+            "english": "Pu Tuet",
+            "local": "ពូទឺត",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": "កែឈ្មោះពូទីតទៅ ពូទឺត",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040402",
+            "english": "Pu Reang",
+            "local": "ពូរាំង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040403",
+            "english": "Bu Sra",
+            "local": "ប៊ូស្រា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040404",
+            "english": "Pu Til",
+            "local": "ពូទិល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040405",
+            "english": "Lam Meh",
+            "local": "ឡាំមេះ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040406",
+            "english": "Pu Cha",
+            "local": "ពូចា",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11040407",
+            "english": "Pu Lu",
+            "local": "ពូលុ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ក្រុង",
+    "code": "1105",
+    "english": "Saen Monourom",
+    "local": "សែនមនោរម្យ",
+    "reference": "អនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+    "official_note": "កាលពីមុនជាស្រុកសែនមនោរម្យតាមប្រកាសលេខ ៤៩៣ ប្រ.ក ចុះថ្ងៃទី៣០ ខែមេសា ឆ្នាំ២០០១​ របស់ក្រសួងមហាផ្ទៃ បច្ចុន្បន្នជាក្រុងសែនមនោរម្យតាមអនុក្រឹតលេខ ២២៦ អនក្រ.បក ចុះថ្ងៃទី៣០ ខែធ្នូ ឆ្នាំ២០០៨។",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "សង្កាត់",
+        "code": "110501",
+        "english": "Monourom",
+        "local": "មនោរម្យ",
+        "reference": "តាមអនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11050101",
+            "english": "Daeum Sral",
+            "local": "ដើមស្រល់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050102",
+            "english": "Chrey Saen",
+            "local": "ជ្រៃសែន",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "110502",
+        "english": "Sokh Dom",
+        "local": "សុខដុម",
+        "reference": "តាមអនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11050201",
+            "english": "Mean Leaph",
+            "local": "មានលាភ",
+            "reference": "អនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050202",
+            "english": "Daoh Kramom",
+            "local": "ដោះក្រមុំ",
+            "reference": "អនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050203",
+            "english": "Svay Chek",
+            "local": "ស្វាយចេក",
+            "reference": "អនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050204",
+            "english": "Lauka",
+            "local": "ឡៅកា",
+            "reference": "អនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "110503",
+        "english": "Spean Mean Chey",
+        "local": "ស្ពានមានជ័យ",
+        "reference": "តាមអនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11050301",
+            "english": "Ou Spean",
+            "local": "អូរស្ពាន",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050302",
+            "english": "Chambak",
+            "local": "ចំបក់",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050303",
+            "english": "Kandal",
+            "local": "កណ្ដាល",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050304",
+            "english": "Chamkar Tae",
+            "local": "ចំការតែ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "110504",
+        "english": "Romonea",
+        "local": "រមនា",
+        "reference": "តាមអនុក្រឹតលេខ ២២៦ អនក្រ.បក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "11050401",
+            "english": "Pu Trom",
+            "local": "ពូត្រុំ",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050402",
+            "english": "Pu Tang",
+            "local": "ពូតាំង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050403",
+            "english": "Pu Lung",
+            "local": "ពូលូង",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "11050404",
+            "english": "Srae I",
+            "local": "ស្រែអ៊ី",
+            "reference": "លេខប្រកាស ៤៩៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  }
+]

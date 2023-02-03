@@ -1,0 +1,7 @@
+backup
+.venv
+*.html
+*.py
+*.xls
+*.pyc
+__pycache__

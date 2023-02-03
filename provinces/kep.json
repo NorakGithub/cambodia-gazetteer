@@ -1,0 +1,241 @@
+[
+  {
+    "type": "ស្រុក",
+    "code": "2301",
+    "english": "Damnak Chang'aeur",
+    "local": "ដំណាក់ចង្អើរ",
+    "reference": "អនុក្រឹត្យលេខ ០៦ អនក្រ.បក",
+    "official_note": "ត្រូវបានប្តូរខណ្ឌដំណាក់ចង្អើរទៅជាស្រុកដំណាក់ចង្អើរ",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "ឃុំ",
+        "code": "230101",
+        "english": "Angkaol",
+        "local": "អង្កោល",
+        "reference": "អនុក្រឹត្យលេខ ០៦​ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អង្កោលទៅជាឃុំអង្កោល",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "23010101",
+            "english": "Ampeng",
+            "local": "អំពេង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010102",
+            "english": "Tuol Sangam",
+            "local": "ទួលសាងាំ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010103",
+            "english": "Kaoh Saom",
+            "local": "កោះសោម",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010104",
+            "english": "Angkaol",
+            "local": "អង្កោល",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "ឃុំ",
+        "code": "230103",
+        "english": "Pong Tuek",
+        "local": "ពងទឹក",
+        "reference": "អនុក្រឹត្យលេខ ០៦ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់ពងទឹកទៅជាឃុំពងទឹក",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "23010301",
+            "english": "Ou Doung",
+            "local": "អូរដូង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010302",
+            "english": "Prey Ta Koy",
+            "local": "ព្រៃតាកុយ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010303",
+            "english": "Phnum Leav",
+            "local": "ភ្នំលាវ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010304",
+            "english": "Rones",
+            "local": "រនេស",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010305",
+            "english": "Chamkar Bei",
+            "local": "ចំការបី",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010306",
+            "english": "Chamka Chek",
+            "local": "ចំការចេក",
+            "reference": "ប្រកាសលេខ ១៦៣៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23010307",
+            "english": "Antung Sar",
+            "local": "អន្ទង់ស",
+            "reference": "ប្រកាសលេខ ១៦៣៣ ប្រ.ក",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ក្រុង",
+    "code": "2302",
+    "english": "Kaeb",
+    "local": "កែប",
+    "reference": "អនុក្រឹត្យលេខ ០៦​ អនក្រ.បក",
+    "official_note": "ត្រូវបានប្តូរខណ្ឌកែបទៅជាក្រុងកែប",
+    "checker_note": null,
+    "communes": [
+      {
+        "type": "សង្កាត់",
+        "code": "230201",
+        "english": "Kaeb",
+        "local": "កែប",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "23020101",
+            "english": "Kaeb",
+            "local": "កែប",
+            "reference": "ប្រកាសលេខ ៤៩៣​ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23020102",
+            "english": "Kaev Krasang",
+            "local": "កែវក្រសាំង",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "230202",
+        "english": "Prey Thum",
+        "local": "ព្រៃធំ",
+        "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក",
+        "official_note": null,
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "23020201",
+            "english": "Damnak Chang'aeur",
+            "local": "ដំណាក់ចង្អើរ",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23020202",
+            "english": "Kampong Tralach",
+            "local": "កំពង់ត្រឡាច",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23020203",
+            "english": "Thmei",
+            "local": "ថ្មី",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": null,
+            "checker_note": null
+          }
+        ]
+      },
+      {
+        "type": "សង្កាត់",
+        "code": "230203",
+        "english": "Ou Krasar",
+        "local": "អូរក្រសារ",
+        "reference": "អនុក្រឹត្យលេខ ០៦ អនក្រ.បក",
+        "official_note": "ត្រូវបានប្តូរសង្កាត់អូរក្រសារ",
+        "checker_note": null,
+        "villages": [
+          {
+            "type": "ភូមិ",
+            "code": "23020301",
+            "english": "Ou Krasar",
+            "local": "អូរក្រសា",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": "ត្រូវបានប្តូរជាសង្កាត់អូរក្រសារក្នុងក្រុងកែប",
+            "checker_note": null
+          },
+          {
+            "type": "ភូមិ",
+            "code": "23020302",
+            "english": "Damnak Chambak",
+            "local": "ដំណាក់ចំបក់",
+            "reference": "ប្រកាសលេខ ៤៩៣ ប្រ.ក របស់ក្រសួងមហាផ្ទៃ",
+            "official_note": "ត្រូវបានប្តូរជាសង្កាត់អូរក្រសារក្នុងក្រុងកែប",
+            "checker_note": null
+          }
+        ]
+      }
+    ]
+  }
+]
