@@ -81,7 +81,7 @@ curl 'https://raw.githubusercontent.com/NorakGithub/cambodia-gazetteer/main/prov
 
 ## MIT License
 
-Copyright (c) [2023] [Khemanorak Khat]
+Copyright (c) 2023 Khemanorak Khat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
