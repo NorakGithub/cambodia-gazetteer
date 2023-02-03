@@ -75,6 +75,10 @@ Example using cURL:
 curl 'https://raw.githubusercontent.com/NorakGithub/cambodia-gazetteer/main/provinces.json'
 ```
 
+## References
+
+- [http://db.ncdd.gov.kh/gazetteer/view/index.castle](http://db.ncdd.gov.kh/gazetteer/view/index.castle)
+
 ## MIT License
 
 Copyright (c) [2023] [Khemanorak Khat]
