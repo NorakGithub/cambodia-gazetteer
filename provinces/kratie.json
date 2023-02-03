@@ -1,5 +1,6 @@
 [
   {
+    "id": "1001",
     "type": "ស្រុក",
     "code": "1001",
     "english": "Chhloung",
@@ -9,6 +10,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100101",
         "type": "ឃុំ",
         "code": "100101",
         "english": "Chhloung",
@@ -18,6 +20,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010101",
             "type": "ភូមិ",
             "code": "10010101",
             "english": "Chhney",
@@ -27,6 +30,7 @@
             "checker_note": null
           },
           {
+            "id": "10010102",
             "type": "ភូមិ",
             "code": "10010102",
             "english": "Chrouy Thma Kraom",
@@ -36,6 +40,7 @@
             "checker_note": null
           },
           {
+            "id": "10010103",
             "type": "ភូមិ",
             "code": "10010103",
             "english": "Chrouy Thma Leu",
@@ -45,6 +50,7 @@
             "checker_note": null
           },
           {
+            "id": "10010104",
             "type": "ភូមិ",
             "code": "10010104",
             "english": "Kampong Srae",
@@ -54,6 +60,7 @@
             "checker_note": null
           },
           {
+            "id": "10010105",
             "type": "ភូមិ",
             "code": "10010105",
             "english": "Kandal",
@@ -63,6 +70,7 @@
             "checker_note": null
           },
           {
+            "id": "10010106",
             "type": "ភូមិ",
             "code": "10010106",
             "english": "Kaoh Kandaor",
@@ -74,6 +82,7 @@
         ]
       },
       {
+        "id": "100102",
         "type": "ឃុំ",
         "code": "100102",
         "english": "Damrei Phong",
@@ -83,6 +92,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010201",
             "type": "ភូមិ",
             "code": "10010201",
             "english": "Boeng Kieb",
@@ -92,6 +102,7 @@
             "checker_note": null
           },
           {
+            "id": "10010202",
             "type": "ភូមិ",
             "code": "10010202",
             "english": "Bos",
@@ -101,6 +112,7 @@
             "checker_note": null
           },
           {
+            "id": "10010203",
             "type": "ភូមិ",
             "code": "10010203",
             "english": "Krouch",
@@ -110,6 +122,7 @@
             "checker_note": null
           },
           {
+            "id": "10010204",
             "type": "ភូមិ",
             "code": "10010204",
             "english": "Prey Kou",
@@ -119,6 +132,7 @@
             "checker_note": null
           },
           {
+            "id": "10010205",
             "type": "ភូមិ",
             "code": "10010205",
             "english": "Prahuot",
@@ -128,6 +142,7 @@
             "checker_note": null
           },
           {
+            "id": "10010206",
             "type": "ភូមិ",
             "code": "10010206",
             "english": "Pralay Triek",
@@ -137,6 +152,7 @@
             "checker_note": null
           },
           {
+            "id": "10010207",
             "type": "ភូមិ",
             "code": "10010207",
             "english": "Srae Sdach",
@@ -146,6 +162,7 @@
             "checker_note": null
           },
           {
+            "id": "10010208",
             "type": "ភូមិ",
             "code": "10010208",
             "english": "Srae Triek",
@@ -155,6 +172,7 @@
             "checker_note": null
           },
           {
+            "id": "10010209",
             "type": "ភូមិ",
             "code": "10010209",
             "english": "27 Sen Chey",
@@ -164,6 +182,7 @@
             "checker_note": null
           },
           {
+            "id": "10010210",
             "type": "ភូមិ",
             "code": "10010210",
             "english": "Danghet",
@@ -173,6 +192,7 @@
             "checker_note": null
           },
           {
+            "id": "10010211",
             "type": "ភូមិ",
             "code": "10010211",
             "english": "Balang",
@@ -184,6 +204,7 @@
         ]
       },
       {
+        "id": "100103",
         "type": "ឃុំ",
         "code": "100103",
         "english": "Han Chey",
@@ -193,6 +214,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010301",
             "type": "ភូមិ",
             "code": "10010301",
             "english": "Hanchey Ti Muoy",
@@ -202,6 +224,7 @@
             "checker_note": null
           },
           {
+            "id": "10010302",
             "type": "ភូមិ",
             "code": "10010302",
             "english": "Hanchey Ti Pi",
@@ -211,6 +234,7 @@
             "checker_note": null
           },
           {
+            "id": "10010303",
             "type": "ភូមិ",
             "code": "10010303",
             "english": "Hanchey Ti Bei",
@@ -220,6 +244,7 @@
             "checker_note": null
           },
           {
+            "id": "10010304",
             "type": "ភូមិ",
             "code": "10010304",
             "english": "Hanchey Ti Buon",
@@ -231,6 +256,7 @@
         ]
       },
       {
+        "id": "100104",
         "type": "ឃុំ",
         "code": "100104",
         "english": "Kampong Damrei",
@@ -240,6 +266,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010401",
             "type": "ភូមិ",
             "code": "10010401",
             "english": "Prama",
@@ -249,6 +276,7 @@
             "checker_note": null
           },
           {
+            "id": "10010402",
             "type": "ភូមិ",
             "code": "10010402",
             "english": "Roliek",
@@ -258,6 +286,7 @@
             "checker_note": null
           },
           {
+            "id": "10010403",
             "type": "ភូមិ",
             "code": "10010403",
             "english": "Veal Kansaeng",
@@ -267,6 +296,7 @@
             "checker_note": null
           },
           {
+            "id": "10010404",
             "type": "ភូមិ",
             "code": "10010404",
             "english": "Kompong Domrey Chas",
@@ -276,6 +306,7 @@
             "checker_note": null
           },
           {
+            "id": "10010405",
             "type": "ភូមិ",
             "code": "10010405",
             "english": "Chrok Dambang",
@@ -285,6 +316,7 @@
             "checker_note": null
           },
           {
+            "id": "10010406",
             "type": "ភូមិ",
             "code": "10010406",
             "english": "Ou Tevda",
@@ -296,6 +328,7 @@
         ]
       },
       {
+        "id": "100105",
         "type": "ឃុំ",
         "code": "100105",
         "english": "Kanhchor",
@@ -305,6 +338,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010501",
             "type": "ភូមិ",
             "code": "10010501",
             "english": "Chheu Teal Phluoh Leu",
@@ -314,6 +348,7 @@
             "checker_note": null
           },
           {
+            "id": "10010502",
             "type": "ភូមិ",
             "code": "10010502",
             "english": "Chheu Teal Phluoh Kraom",
@@ -323,6 +358,7 @@
             "checker_note": null
           },
           {
+            "id": "10010503",
             "type": "ភូមិ",
             "code": "10010503",
             "english": "Kanhchor",
@@ -332,6 +368,7 @@
             "checker_note": null
           },
           {
+            "id": "10010504",
             "type": "ភូមិ",
             "code": "10010504",
             "english": "Preaek Chamlak",
@@ -341,6 +378,7 @@
             "checker_note": null
           },
           {
+            "id": "10010505",
             "type": "ភូមិ",
             "code": "10010505",
             "english": "Bos Knor",
@@ -352,6 +390,7 @@
         ]
       },
       {
+        "id": "100106",
         "type": "ឃុំ",
         "code": "100106",
         "english": "Khsach Andeth",
@@ -361,6 +400,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010601",
             "type": "ភូមិ",
             "code": "10010601",
             "english": "Preaek Samrong Ti Muoy",
@@ -370,6 +410,7 @@
             "checker_note": null
           },
           {
+            "id": "10010602",
             "type": "ភូមិ",
             "code": "10010602",
             "english": "Preaek Samraong Ti Pi",
@@ -379,6 +420,7 @@
             "checker_note": null
           },
           {
+            "id": "10010603",
             "type": "ភូមិ",
             "code": "10010603",
             "english": "Prek Ta Hob",
@@ -388,6 +430,7 @@
             "checker_note": null
           },
           {
+            "id": "10010604",
             "type": "ភូមិ",
             "code": "10010604",
             "english": "Thmei Ti Muoy",
@@ -397,6 +440,7 @@
             "checker_note": null
           },
           {
+            "id": "10010605",
             "type": "ភូមិ",
             "code": "10010605",
             "english": "Thmei Ti Pi",
@@ -408,6 +452,7 @@
         ]
       },
       {
+        "id": "100107",
         "type": "ឃុំ",
         "code": "100107",
         "english": "Pongro",
@@ -417,6 +462,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010701",
             "type": "ភូមិ",
             "code": "10010701",
             "english": "Dang Kdaong",
@@ -426,6 +472,7 @@
             "checker_note": null
           },
           {
+            "id": "10010702",
             "type": "ភូមិ",
             "code": "10010702",
             "english": "Pongro Muoy",
@@ -435,6 +482,7 @@
             "checker_note": null
           },
           {
+            "id": "10010703",
             "type": "ភូមិ",
             "code": "10010703",
             "english": "Pongro Pir",
@@ -444,6 +492,7 @@
             "checker_note": null
           },
           {
+            "id": "10010704",
             "type": "ភូមិ",
             "code": "10010704",
             "english": "Pongro Bei",
@@ -453,6 +502,7 @@
             "checker_note": null
           },
           {
+            "id": "10010705",
             "type": "ភូមិ",
             "code": "10010705",
             "english": "Tnaot",
@@ -464,6 +514,7 @@
         ]
       },
       {
+        "id": "100108",
         "type": "ឃុំ",
         "code": "100108",
         "english": "Preaek Saman",
@@ -473,6 +524,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10010801",
             "type": "ភូមិ",
             "code": "10010801",
             "english": "Chheu Teal Phluoh",
@@ -482,6 +534,7 @@
             "checker_note": null
           },
           {
+            "id": "10010802",
             "type": "ភូមិ",
             "code": "10010802",
             "english": "Chhak Kantoung",
@@ -491,6 +544,7 @@
             "checker_note": null
           },
           {
+            "id": "10010803",
             "type": "ភូមិ",
             "code": "10010803",
             "english": "Dei Thmei",
@@ -500,6 +554,7 @@
             "checker_note": null
           },
           {
+            "id": "10010804",
             "type": "ភូមិ",
             "code": "10010804",
             "english": "Lvea Thum",
@@ -509,6 +564,7 @@
             "checker_note": null
           },
           {
+            "id": "10010805",
             "type": "ភូមិ",
             "code": "10010805",
             "english": "Preaek Saman",
@@ -522,6 +578,7 @@
     ]
   },
   {
+    "id": "1002",
     "type": "ក្រុង",
     "code": "1002",
     "english": "Kracheh",
@@ -531,6 +588,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100207",
         "type": "សង្កាត់",
         "code": "100207",
         "english": "Kaoh Trong",
@@ -540,6 +598,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10020701",
             "type": "ភូមិ",
             "code": "10020701",
             "english": "Kbal Kaoh",
@@ -549,6 +608,7 @@
             "checker_note": null
           },
           {
+            "id": "10020702",
             "type": "ភូមិ",
             "code": "10020702",
             "english": "Chong Kaoh",
@@ -560,6 +620,7 @@
         ]
       },
       {
+        "id": "100208",
         "type": "សង្កាត់",
         "code": "100208",
         "english": "Krakor",
@@ -569,6 +630,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10020801",
             "type": "ភូមិ",
             "code": "10020801",
             "english": "Krakor",
@@ -578,6 +640,7 @@
             "checker_note": null
           },
           {
+            "id": "10020802",
             "type": "ភូមិ",
             "code": "10020802",
             "english": "Tuol Monourom",
@@ -589,6 +652,7 @@
         ]
       },
       {
+        "id": "100209",
         "type": "សង្កាត់",
         "code": "100209",
         "english": "Kracheh",
@@ -598,6 +662,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10020901",
             "type": "ភូមិ",
             "code": "10020901",
             "english": "Doun Chroam",
@@ -607,6 +672,7 @@
             "checker_note": null
           },
           {
+            "id": "10020902",
             "type": "ភូមិ",
             "code": "10020902",
             "english": "Kracheh",
@@ -616,6 +682,7 @@
             "checker_note": null
           },
           {
+            "id": "10020903",
             "type": "ភូមិ",
             "code": "10020903",
             "english": "Phsar Veaeng",
@@ -625,6 +692,7 @@
             "checker_note": null
           },
           {
+            "id": "10020904",
             "type": "ភូមិ",
             "code": "10020904",
             "english": "Trapeang Pring",
@@ -634,6 +702,7 @@
             "checker_note": null
           },
           {
+            "id": "10020905",
             "type": "ភូមិ",
             "code": "10020905",
             "english": "Voat",
@@ -645,6 +714,7 @@
         ]
       },
       {
+        "id": "100210",
         "type": "សង្កាត់",
         "code": "100210",
         "english": "Ou Ruessei",
@@ -654,6 +724,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10021001",
             "type": "ភូមិ",
             "code": "10021001",
             "english": "Kantring",
@@ -663,6 +734,7 @@
             "checker_note": null
           },
           {
+            "id": "10021002",
             "type": "ភូមិ",
             "code": "10021002",
             "english": "Kapou",
@@ -672,6 +744,7 @@
             "checker_note": null
           },
           {
+            "id": "10021003",
             "type": "ភូមិ",
             "code": "10021003",
             "english": "Ou Ruessei Ti Muoy",
@@ -681,6 +754,7 @@
             "checker_note": null
           },
           {
+            "id": "10021004",
             "type": "ភូមិ",
             "code": "10021004",
             "english": "Ou Ruessei Ti Pir",
@@ -690,6 +764,7 @@
             "checker_note": null
           },
           {
+            "id": "10021005",
             "type": "ភូមិ",
             "code": "10021005",
             "english": "Srae Sdau",
@@ -699,6 +774,7 @@
             "checker_note": null
           },
           {
+            "id": "10021006",
             "type": "ភូមិ",
             "code": "10021006",
             "english": "Kapou 1",
@@ -708,6 +784,7 @@
             "checker_note": null
           },
           {
+            "id": "10021007",
             "type": "ភូមិ",
             "code": "10021007",
             "english": "Ou Ruessei 3",
@@ -717,6 +794,7 @@
             "checker_note": null
           },
           {
+            "id": "10021008",
             "type": "ភូមិ",
             "code": "10021008",
             "english": "Srae Sdau 1",
@@ -728,6 +806,7 @@
         ]
       },
       {
+        "id": "100211",
         "type": "សង្កាត់",
         "code": "100211",
         "english": "Roka Kandal",
@@ -737,6 +816,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10021101",
             "type": "ភូមិ",
             "code": "10021101",
             "english": "Ti Muoy",
@@ -746,6 +826,7 @@
             "checker_note": null
           },
           {
+            "id": "10021102",
             "type": "ភូមិ",
             "code": "10021102",
             "english": "Ti Pir",
@@ -759,6 +840,7 @@
     ]
   },
   {
+    "id": "1003",
     "type": "ស្រុក",
     "code": "1003",
     "english": "Prek Prasab",
@@ -768,6 +850,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100301",
         "type": "ឃុំ",
         "code": "100301",
         "english": "Chambâk",
@@ -777,6 +860,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030101",
             "type": "ភូមិ",
             "code": "10030101",
             "english": "Chambâk 1",
@@ -786,6 +870,7 @@
             "checker_note": null
           },
           {
+            "id": "10030102",
             "type": "ភូមិ",
             "code": "10030102",
             "english": "Chambâk 2",
@@ -795,6 +880,7 @@
             "checker_note": null
           },
           {
+            "id": "10030103",
             "type": "ភូមិ",
             "code": "10030103",
             "english": "Chroy Ampil 1",
@@ -804,6 +890,7 @@
             "checker_note": null
           },
           {
+            "id": "10030104",
             "type": "ភូមិ",
             "code": "10030104",
             "english": "Chroy Ampil 2",
@@ -813,6 +900,7 @@
             "checker_note": null
           },
           {
+            "id": "10030105",
             "type": "ភូមិ",
             "code": "10030105",
             "english": "Chroy Thmor",
@@ -822,6 +910,7 @@
             "checker_note": null
           },
           {
+            "id": "10030106",
             "type": "ភូមិ",
             "code": "10030106",
             "english": "Stoeung Thum",
@@ -831,6 +920,7 @@
             "checker_note": null
           },
           {
+            "id": "10030107",
             "type": "ភូមិ",
             "code": "10030107",
             "english": "Techo Sampatean",
@@ -842,6 +932,7 @@
         ]
       },
       {
+        "id": "100302",
         "type": "ឃុំ",
         "code": "100302",
         "english": "Chrouy Banteay",
@@ -851,6 +942,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030201",
             "type": "ភូមិ",
             "code": "10030201",
             "english": "Chrouy Banteay",
@@ -860,6 +952,7 @@
             "checker_note": null
           },
           {
+            "id": "10030202",
             "type": "ភូមិ",
             "code": "10030202",
             "english": "Kampong Dar",
@@ -869,6 +962,7 @@
             "checker_note": null
           },
           {
+            "id": "10030203",
             "type": "ភូមិ",
             "code": "10030203",
             "english": "Kaeng",
@@ -878,6 +972,7 @@
             "checker_note": null
           },
           {
+            "id": "10030204",
             "type": "ភូមិ",
             "code": "10030204",
             "english": "Khsach Tob",
@@ -887,6 +982,7 @@
             "checker_note": null
           },
           {
+            "id": "10030205",
             "type": "ភូមិ",
             "code": "10030205",
             "english": "L'iet",
@@ -896,6 +992,7 @@
             "checker_note": null
           },
           {
+            "id": "10030206",
             "type": "ភូមិ",
             "code": "10030206",
             "english": "Roka Thum",
@@ -905,6 +1002,7 @@
             "checker_note": null
           },
           {
+            "id": "10030207",
             "type": "ភូមិ",
             "code": "10030207",
             "english": "Tuol Prich",
@@ -914,6 +1012,7 @@
             "checker_note": null
           },
           {
+            "id": "10030208",
             "type": "ភូមិ",
             "code": "10030208",
             "english": "Phnhea Rong",
@@ -923,6 +1022,7 @@
             "checker_note": null
           },
           {
+            "id": "10030209",
             "type": "ភូមិ",
             "code": "10030209",
             "english": "Ou Angkonh",
@@ -932,6 +1032,7 @@
             "checker_note": null
           },
           {
+            "id": "10030210",
             "type": "ភូមិ",
             "code": "10030210",
             "english": "Srok Rotes",
@@ -941,6 +1042,7 @@
             "checker_note": null
           },
           {
+            "id": "10030211",
             "type": "ភូមិ",
             "code": "10030211",
             "english": "Ou Kro Nhoung",
@@ -950,6 +1052,7 @@
             "checker_note": null
           },
           {
+            "id": "10030212",
             "type": "ភូមិ",
             "code": "10030212",
             "english": "Trapaeng Korkos",
@@ -961,6 +1064,7 @@
         ]
       },
       {
+        "id": "100303",
         "type": "ឃុំ",
         "code": "100303",
         "english": "Kampong Kor",
@@ -970,6 +1074,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030301",
             "type": "ភូមិ",
             "code": "10030301",
             "english": "Chrouy Snaeng Krabei Kraom",
@@ -979,6 +1084,7 @@
             "checker_note": null
           },
           {
+            "id": "10030302",
             "type": "ភូមិ",
             "code": "10030302",
             "english": "Chrouy Snaeng Krabei Leu",
@@ -988,6 +1094,7 @@
             "checker_note": null
           },
           {
+            "id": "10030303",
             "type": "ភូមិ",
             "code": "10030303",
             "english": "Kampong Kor",
@@ -997,6 +1104,7 @@
             "checker_note": null
           },
           {
+            "id": "10030304",
             "type": "ភូមិ",
             "code": "10030304",
             "english": "Ta Mau Leu",
@@ -1008,6 +1116,7 @@
         ]
       },
       {
+        "id": "100304",
         "type": "ឃុំ",
         "code": "100304",
         "english": "Koh Ta Suy",
@@ -1017,6 +1126,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030401",
             "type": "ភូមិ",
             "code": "10030401",
             "english": "Chong Koh",
@@ -1026,6 +1136,7 @@
             "checker_note": null
           },
           {
+            "id": "10030402",
             "type": "ភូមិ",
             "code": "10030402",
             "english": "Kandal Koh",
@@ -1035,6 +1146,7 @@
             "checker_note": null
           },
           {
+            "id": "10030403",
             "type": "ភូមិ",
             "code": "10030403",
             "english": "Kbal Koh",
@@ -1046,6 +1158,7 @@
         ]
       },
       {
+        "id": "100305",
         "type": "ឃុំ",
         "code": "100305",
         "english": "Preaek Prasab",
@@ -1055,6 +1168,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030501",
             "type": "ភូមិ",
             "code": "10030501",
             "english": "Boeng Leach",
@@ -1064,6 +1178,7 @@
             "checker_note": null
           },
           {
+            "id": "10030502",
             "type": "ភូមិ",
             "code": "10030502",
             "english": "Dei Doh Kraom",
@@ -1073,6 +1188,7 @@
             "checker_note": null
           },
           {
+            "id": "10030503",
             "type": "ភូមិ",
             "code": "10030503",
             "english": "Dei Doh Leu",
@@ -1082,6 +1198,7 @@
             "checker_note": null
           },
           {
+            "id": "10030504",
             "type": "ភូមិ",
             "code": "10030504",
             "english": "Ou Lung",
@@ -1091,6 +1208,7 @@
             "checker_note": null
           },
           {
+            "id": "10030505",
             "type": "ភូមិ",
             "code": "10030505",
             "english": "Preaek Prang",
@@ -1100,6 +1218,7 @@
             "checker_note": null
           },
           {
+            "id": "10030506",
             "type": "ភូមិ",
             "code": "10030506",
             "english": "Preaek Prasab Kandal",
@@ -1109,6 +1228,7 @@
             "checker_note": null
           },
           {
+            "id": "10030507",
             "type": "ភូមិ",
             "code": "10030507",
             "english": "Preaek Prasab Kraom",
@@ -1118,6 +1238,7 @@
             "checker_note": null
           },
           {
+            "id": "10030508",
             "type": "ភូមិ",
             "code": "10030508",
             "english": "Preaek Prasab Leu",
@@ -1127,6 +1248,7 @@
             "checker_note": null
           },
           {
+            "id": "10030509",
             "type": "ភូមិ",
             "code": "10030509",
             "english": "Prey Kur",
@@ -1136,6 +1258,7 @@
             "checker_note": null
           },
           {
+            "id": "10030510",
             "type": "ភូមិ",
             "code": "10030510",
             "english": "Thma Reab",
@@ -1145,6 +1268,7 @@
             "checker_note": null
           },
           {
+            "id": "10030511",
             "type": "ភូមិ",
             "code": "10030511",
             "english": "Bos Tirk",
@@ -1154,6 +1278,7 @@
             "checker_note": null
           },
           {
+            "id": "10030512",
             "type": "ភូមិ",
             "code": "10030512",
             "english": "Kampeng",
@@ -1163,6 +1288,7 @@
             "checker_note": null
           },
           {
+            "id": "10030513",
             "type": "ភូមិ",
             "code": "10030513",
             "english": "Ou Chrey",
@@ -1174,6 +1300,7 @@
         ]
       },
       {
+        "id": "100306",
         "type": "ឃុំ",
         "code": "100306",
         "english": "Russey Keo",
@@ -1183,6 +1310,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030601",
             "type": "ភូមិ",
             "code": "10030601",
             "english": "Boeng Rey",
@@ -1192,6 +1320,7 @@
             "checker_note": null
           },
           {
+            "id": "10030602",
             "type": "ភូមិ",
             "code": "10030602",
             "english": "Russey Keo",
@@ -1201,6 +1330,7 @@
             "checker_note": null
           },
           {
+            "id": "10030603",
             "type": "ភូមិ",
             "code": "10030603",
             "english": "Sralav Damnak",
@@ -1210,6 +1340,7 @@
             "checker_note": null
           },
           {
+            "id": "10030604",
             "type": "ភូមិ",
             "code": "10030604",
             "english": "Svay Chum",
@@ -1221,6 +1352,7 @@
         ]
       },
       {
+        "id": "100307",
         "type": "ឃុំ",
         "code": "100307",
         "english": "Saob",
@@ -1230,6 +1362,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030701",
             "type": "ភូមិ",
             "code": "10030701",
             "english": "Boeng Chraeng",
@@ -1239,6 +1372,7 @@
             "checker_note": null
           },
           {
+            "id": "10030702",
             "type": "ភូមិ",
             "code": "10030702",
             "english": "Kla",
@@ -1248,6 +1382,7 @@
             "checker_note": null
           },
           {
+            "id": "10030703",
             "type": "ភូមិ",
             "code": "10030703",
             "english": "Preaek Chik",
@@ -1257,6 +1392,7 @@
             "checker_note": null
           },
           {
+            "id": "10030704",
             "type": "ភូមិ",
             "code": "10030704",
             "english": "Preaek Prolung",
@@ -1266,6 +1402,7 @@
             "checker_note": null
           },
           {
+            "id": "10030705",
             "type": "ភូមិ",
             "code": "10030705",
             "english": "Preaek Roka",
@@ -1275,6 +1412,7 @@
             "checker_note": null
           },
           {
+            "id": "10030706",
             "type": "ភូមិ",
             "code": "10030706",
             "english": "Saob Kraom",
@@ -1284,6 +1422,7 @@
             "checker_note": null
           },
           {
+            "id": "10030707",
             "type": "ភូមិ",
             "code": "10030707",
             "english": "Saob Leu",
@@ -1293,6 +1432,7 @@
             "checker_note": null
           },
           {
+            "id": "10030708",
             "type": "ភូមិ",
             "code": "10030708",
             "english": "Ou Tmar Tong",
@@ -1302,6 +1442,7 @@
             "checker_note": null
           },
           {
+            "id": "10030709",
             "type": "ភូមិ",
             "code": "10030709",
             "english": "Kralanh Tret",
@@ -1311,6 +1452,7 @@
             "checker_note": null
           },
           {
+            "id": "10030710",
             "type": "ភូមិ",
             "code": "10030710",
             "english": "Si Taen",
@@ -1320,6 +1462,7 @@
             "checker_note": null
           },
           {
+            "id": "10030711",
             "type": "ភូមិ",
             "code": "10030711",
             "english": "Srae Popel",
@@ -1331,6 +1474,7 @@
         ]
       },
       {
+        "id": "100308",
         "type": "ឃុំ",
         "code": "100308",
         "english": "Ta Mao",
@@ -1340,6 +1484,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10030801",
             "type": "ភូមិ",
             "code": "10030801",
             "english": "Kraham Ka Leu",
@@ -1349,6 +1494,7 @@
             "checker_note": null
           },
           {
+            "id": "10030802",
             "type": "ភូមិ",
             "code": "10030802",
             "english": "Kraham Ka Kraom",
@@ -1358,6 +1504,7 @@
             "checker_note": null
           },
           {
+            "id": "10030803",
             "type": "ភូមិ",
             "code": "10030803",
             "english": "Khsat",
@@ -1367,6 +1514,7 @@
             "checker_note": null
           },
           {
+            "id": "10030804",
             "type": "ភូមិ",
             "code": "10030804",
             "english": "Prek Svay",
@@ -1376,6 +1524,7 @@
             "checker_note": null
           },
           {
+            "id": "10030805",
             "type": "ភូមិ",
             "code": "10030805",
             "english": "Stueng Tro",
@@ -1385,6 +1534,7 @@
             "checker_note": null
           },
           {
+            "id": "10030806",
             "type": "ភូមិ",
             "code": "10030806",
             "english": "Ta Mau Kandal",
@@ -1394,6 +1544,7 @@
             "checker_note": null
           },
           {
+            "id": "10030807",
             "type": "ភូមិ",
             "code": "10030807",
             "english": "Ta Mau Kraom",
@@ -1407,6 +1558,7 @@
     ]
   },
   {
+    "id": "1004",
     "type": "ស្រុក",
     "code": "1004",
     "english": "Sambour",
@@ -1416,6 +1568,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100401",
         "type": "ឃុំ",
         "code": "100401",
         "english": "Boeng Char",
@@ -1425,6 +1578,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10040101",
             "type": "ភូមិ",
             "code": "10040101",
             "english": "Damrae",
@@ -1434,6 +1588,7 @@
             "checker_note": null
           },
           {
+            "id": "10040102",
             "type": "ភូមិ",
             "code": "10040102",
             "english": "Kampong Roteh",
@@ -1443,6 +1598,7 @@
             "checker_note": null
           },
           {
+            "id": "10040103",
             "type": "ភូមិ",
             "code": "10040103",
             "english": "Kaoh Dambang",
@@ -1452,6 +1608,7 @@
             "checker_note": null
           },
           {
+            "id": "10040104",
             "type": "ភូមិ",
             "code": "10040104",
             "english": "Boeng Char",
@@ -1461,6 +1618,7 @@
             "checker_note": null
           },
           {
+            "id": "10040105",
             "type": "ភូមិ",
             "code": "10040105",
             "english": "Inn Chey",
@@ -1472,6 +1630,7 @@
         ]
       },
       {
+        "id": "100402",
         "type": "ឃុំ",
         "code": "100402",
         "english": "Kampong Cham",
@@ -1481,6 +1640,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10040201",
             "type": "ភូមិ",
             "code": "10040201",
             "english": "A Chen",
@@ -1490,6 +1650,7 @@
             "checker_note": null
           },
           {
+            "id": "10040202",
             "type": "ភូមិ",
             "code": "10040202",
             "english": "Ampil Tuek",
@@ -1499,6 +1660,7 @@
             "checker_note": null
           },
           {
+            "id": "10040203",
             "type": "ភូមិ",
             "code": "10040203",
             "english": "Kampong Krabei",
@@ -1508,6 +1670,7 @@
             "checker_note": null
           },
           {
+            "id": "10040204",
             "type": "ភូមិ",
             "code": "10040204",
             "english": "Kaoh Phdau",
@@ -1517,6 +1680,7 @@
             "checker_note": null
           },
           {
+            "id": "10040206",
             "type": "ភូមិ",
             "code": "10040206",
             "english": "Samphin",
@@ -1526,6 +1690,7 @@
             "checker_note": null
           },
           {
+            "id": "10040207",
             "type": "ភូមិ",
             "code": "10040207",
             "english": "Tonsaong Thleak",
@@ -1535,6 +1700,7 @@
             "checker_note": null
           },
           {
+            "id": "10040208",
             "type": "ភូមិ",
             "code": "10040208",
             "english": "Yeav",
@@ -1546,6 +1712,7 @@
         ]
       },
       {
+        "id": "100404",
         "type": "ឃុំ",
         "code": "100404",
         "english": "Kaoh Khnhaer",
@@ -1555,6 +1722,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10040401",
             "type": "ភូមិ",
             "code": "10040401",
             "english": "Bay Samnom",
@@ -1564,6 +1732,7 @@
             "checker_note": null
           },
           {
+            "id": "10040402",
             "type": "ភូមិ",
             "code": "10040402",
             "english": "Cheung Peat",
@@ -1573,6 +1742,7 @@
             "checker_note": null
           },
           {
+            "id": "10040403",
             "type": "ភូមិ",
             "code": "10040403",
             "english": "Kampong Pnov",
@@ -1582,6 +1752,7 @@
             "checker_note": null
           },
           {
+            "id": "10040404",
             "type": "ភូមិ",
             "code": "10040404",
             "english": "Kaoh Chbar",
@@ -1591,6 +1762,7 @@
             "checker_note": null
           },
           {
+            "id": "10040405",
             "type": "ភូមិ",
             "code": "10040405",
             "english": "Svay Chek",
@@ -1602,6 +1774,7 @@
         ]
       },
       {
+        "id": "100407",
         "type": "ឃុំ",
         "code": "100407",
         "english": "Sambour",
@@ -1611,6 +1784,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10040701",
             "type": "ភូមិ",
             "code": "10040701",
             "english": "Char Thnaol",
@@ -1620,6 +1794,7 @@
             "checker_note": null
           },
           {
+            "id": "10040702",
             "type": "ភូមិ",
             "code": "10040702",
             "english": "Doun Meas",
@@ -1629,6 +1804,7 @@
             "checker_note": null
           },
           {
+            "id": "10040703",
             "type": "ភូមិ",
             "code": "10040703",
             "english": "Kaeng Prasat",
@@ -1638,6 +1814,7 @@
             "checker_note": null
           },
           {
+            "id": "10040704",
             "type": "ភូមិ",
             "code": "10040704",
             "english": "Kaoh Real",
@@ -1647,6 +1824,7 @@
             "checker_note": null
           },
           {
+            "id": "10040706",
             "type": "ភូមិ",
             "code": "10040706",
             "english": "Sambour",
@@ -1656,6 +1834,7 @@
             "checker_note": null
           },
           {
+            "id": "10040707",
             "type": "ភូមិ",
             "code": "10040707",
             "english": "Samraong",
@@ -1665,6 +1844,7 @@
             "checker_note": null
           },
           {
+            "id": "10040708",
             "type": "ភូមិ",
             "code": "10040708",
             "english": "Srae Khoean",
@@ -1676,6 +1856,7 @@
         ]
       },
       {
+        "id": "100408",
         "type": "ឃុំ",
         "code": "100408",
         "english": "Sandan",
@@ -1685,6 +1866,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10040801",
             "type": "ភូមិ",
             "code": "10040801",
             "english": "Thmei",
@@ -1694,6 +1876,7 @@
             "checker_note": null
           },
           {
+            "id": "10040802",
             "type": "ភូមិ",
             "code": "10040802",
             "english": "Thum",
@@ -1703,6 +1886,7 @@
             "checker_note": null
           },
           {
+            "id": "10040803",
             "type": "ភូមិ",
             "code": "10040803",
             "english": "Sandan",
@@ -1712,6 +1896,7 @@
             "checker_note": null
           },
           {
+            "id": "10040804",
             "type": "ភូមិ",
             "code": "10040804",
             "english": "Sangkum",
@@ -1723,6 +1908,7 @@
         ]
       },
       {
+        "id": "100410",
         "type": "ឃុំ",
         "code": "100410",
         "english": "Voadthonak",
@@ -1732,6 +1918,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10041001",
             "type": "ភូមិ",
             "code": "10041001",
             "english": "Anlong Preah Kou",
@@ -1741,6 +1928,7 @@
             "checker_note": null
           },
           {
+            "id": "10041002",
             "type": "ភូមិ",
             "code": "10041002",
             "english": "Preaek Krieng",
@@ -1750,6 +1938,7 @@
             "checker_note": null
           },
           {
+            "id": "10041003",
             "type": "ភូមិ",
             "code": "10041003",
             "english": "Voadthonak",
@@ -1759,6 +1948,7 @@
             "checker_note": null
           },
           {
+            "id": "10041004",
             "type": "ភូមិ",
             "code": "10041004",
             "english": "Ta Nguon",
@@ -1768,6 +1958,7 @@
             "checker_note": null
           },
           {
+            "id": "10041005",
             "type": "ភូមិ",
             "code": "10041005",
             "english": "Tram Dom",
@@ -1777,6 +1968,7 @@
             "checker_note": null
           },
           {
+            "id": "10041006",
             "type": "ភូមិ",
             "code": "10041006",
             "english": "Kaoh Sam",
@@ -1790,6 +1982,7 @@
     ]
   },
   {
+    "id": "1005",
     "type": "ស្រុក",
     "code": "1005",
     "english": "Snuol",
@@ -1799,6 +1992,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100501",
         "type": "ឃុំ",
         "code": "100501",
         "english": "Khsuem",
@@ -1808,6 +2002,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050101",
             "type": "ភូមិ",
             "code": "10050101",
             "english": "Mil",
@@ -1817,6 +2012,7 @@
             "checker_note": null
           },
           {
+            "id": "10050102",
             "type": "ភូមិ",
             "code": "10050102",
             "english": "Choeng",
@@ -1826,6 +2022,7 @@
             "checker_note": null
           },
           {
+            "id": "10050103",
             "type": "ភូមិ",
             "code": "10050103",
             "english": "Doung",
@@ -1835,6 +2032,7 @@
             "checker_note": null
           },
           {
+            "id": "10050104",
             "type": "ភូមិ",
             "code": "10050104",
             "english": "Khsuem Knong",
@@ -1844,6 +2042,7 @@
             "checker_note": null
           },
           {
+            "id": "10050105",
             "type": "ភូមិ",
             "code": "10050105",
             "english": "Khsuem Krau",
@@ -1853,6 +2052,7 @@
             "checker_note": null
           },
           {
+            "id": "10050106",
             "type": "ភូមិ",
             "code": "10050106",
             "english": "Samrang",
@@ -1862,6 +2062,7 @@
             "checker_note": null
           },
           {
+            "id": "10050107",
             "type": "ភូមិ",
             "code": "10050107",
             "english": "Srae Roneam",
@@ -1871,6 +2072,7 @@
             "checker_note": null
           },
           {
+            "id": "10050108",
             "type": "ភូមិ",
             "code": "10050108",
             "english": "Srae Thmei",
@@ -1882,6 +2084,7 @@
         ]
       },
       {
+        "id": "100502",
         "type": "ឃុំ",
         "code": "100502",
         "english": "Pir Thnu",
@@ -1891,6 +2094,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050201",
             "type": "ភូមិ",
             "code": "10050201",
             "english": "Cheung Khle",
@@ -1900,6 +2104,7 @@
             "checker_note": null
           },
           {
+            "id": "10050202",
             "type": "ភូមិ",
             "code": "10050202",
             "english": "Cheung Khlu",
@@ -1909,6 +2114,7 @@
             "checker_note": null
           },
           {
+            "id": "10050203",
             "type": "ភូមិ",
             "code": "10050203",
             "english": "Thma Hal Dei Kraham",
@@ -1918,6 +2124,7 @@
             "checker_note": null
           },
           {
+            "id": "10050204",
             "type": "ភូមិ",
             "code": "10050204",
             "english": "Pravanh",
@@ -1927,6 +2134,7 @@
             "checker_note": null
           },
           {
+            "id": "10050205",
             "type": "ភូមិ",
             "code": "10050205",
             "english": "Thma Hal Veal",
@@ -1936,6 +2144,7 @@
             "checker_note": null
           },
           {
+            "id": "10050206",
             "type": "ភូមិ",
             "code": "10050206",
             "english": "Trapeang Srae",
@@ -1945,6 +2154,7 @@
             "checker_note": null
           },
           {
+            "id": "10050207",
             "type": "ភូមិ",
             "code": "10050207",
             "english": "Chrab",
@@ -1956,6 +2166,7 @@
         ]
       },
       {
+        "id": "100503",
         "type": "ឃុំ",
         "code": "100503",
         "english": "Snuol",
@@ -1965,6 +2176,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050301",
             "type": "ភូមិ",
             "code": "10050301",
             "english": "Kat Dai",
@@ -1974,6 +2186,7 @@
             "checker_note": null
           },
           {
+            "id": "10050302",
             "type": "ភូមិ",
             "code": "10050302",
             "english": "Kbal Snuol",
@@ -1983,6 +2196,7 @@
             "checker_note": null
           },
           {
+            "id": "10050303",
             "type": "ភូមិ",
             "code": "10050303",
             "english": "Krong",
@@ -1992,6 +2206,7 @@
             "checker_note": null
           },
           {
+            "id": "10050304",
             "type": "ភូមិ",
             "code": "10050304",
             "english": "Preaek Kdei",
@@ -2001,6 +2216,7 @@
             "checker_note": null
           },
           {
+            "id": "10050305",
             "type": "ភូមិ",
             "code": "10050305",
             "english": "Snuol Kaeut",
@@ -2010,6 +2226,7 @@
             "checker_note": null
           },
           {
+            "id": "10050306",
             "type": "ភូមិ",
             "code": "10050306",
             "english": "Thpong",
@@ -2019,6 +2236,7 @@
             "checker_note": null
           },
           {
+            "id": "10050307",
             "type": "ភូមិ",
             "code": "10050307",
             "english": "Snuol Lech",
@@ -2030,6 +2248,7 @@
         ]
       },
       {
+        "id": "100504",
         "type": "ឃុំ",
         "code": "100504",
         "english": "Srae Char",
@@ -2039,6 +2258,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050401",
             "type": "ភូមិ",
             "code": "10050401",
             "english": "Roha",
@@ -2048,6 +2268,7 @@
             "checker_note": null
           },
           {
+            "id": "10050402",
             "type": "ភូមិ",
             "code": "10050402",
             "english": "Kbal Trach",
@@ -2057,6 +2278,7 @@
             "checker_note": null
           },
           {
+            "id": "10050403",
             "type": "ភូមិ",
             "code": "10050403",
             "english": "Mak Kandal",
@@ -2066,6 +2288,7 @@
             "checker_note": null
           },
           {
+            "id": "10050404",
             "type": "ភូមិ",
             "code": "10050404",
             "english": "Mean Chey",
@@ -2075,6 +2298,7 @@
             "checker_note": null
           },
           {
+            "id": "10050405",
             "type": "ភូមិ",
             "code": "10050405",
             "english": "Treak",
@@ -2084,6 +2308,7 @@
             "checker_note": null
           },
           {
+            "id": "10050406",
             "type": "ភូមិ",
             "code": "10050406",
             "english": "S'at",
@@ -2095,6 +2320,7 @@
         ]
       },
       {
+        "id": "100505",
         "type": "ឃុំ",
         "code": "100505",
         "english": "Svay Chreah",
@@ -2104,6 +2330,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050501",
             "type": "ភូមិ",
             "code": "10050501",
             "english": "Thnal",
@@ -2113,6 +2340,7 @@
             "checker_note": null
           },
           {
+            "id": "10050502",
             "type": "ភូមិ",
             "code": "10050502",
             "english": "Voat",
@@ -2122,6 +2350,7 @@
             "checker_note": null
           },
           {
+            "id": "10050503",
             "type": "ភូមិ",
             "code": "10050503",
             "english": "Sambuor",
@@ -2131,6 +2360,7 @@
             "checker_note": null
           },
           {
+            "id": "10050504",
             "type": "ភូមិ",
             "code": "10050504",
             "english": "Ta Saom",
@@ -2140,6 +2370,7 @@
             "checker_note": null
           },
           {
+            "id": "10050505",
             "type": "ភូមិ",
             "code": "10050505",
             "english": "Srae Char",
@@ -2149,6 +2380,7 @@
             "checker_note": null
           },
           {
+            "id": "10050506",
             "type": "ភូមិ",
             "code": "10050506",
             "english": "Ta Pum",
@@ -2158,6 +2390,7 @@
             "checker_note": null
           },
           {
+            "id": "10050507",
             "type": "ភូមិ",
             "code": "10050507",
             "english": "Doun Mea",
@@ -2167,6 +2400,7 @@
             "checker_note": null
           },
           {
+            "id": "10050508",
             "type": "ភូមិ",
             "code": "10050508",
             "english": "Rumpuk",
@@ -2178,6 +2412,7 @@
         ]
       },
       {
+        "id": "100506",
         "type": "ឃុំ",
         "code": "100506",
         "english": "Kronhoung Saen Chey",
@@ -2187,6 +2422,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10050601",
             "type": "ភូមិ",
             "code": "10050601",
             "english": "KroNhoung Sen Chey",
@@ -2196,6 +2432,7 @@
             "checker_note": null
           },
           {
+            "id": "10050602",
             "type": "ភូមិ",
             "code": "10050602",
             "english": "VealBei Chakrey Heng",
@@ -2205,6 +2442,7 @@
             "checker_note": null
           },
           {
+            "id": "10050603",
             "type": "ភូមិ",
             "code": "10050603",
             "english": "Chros Chrov Pousal",
@@ -2214,6 +2452,7 @@
             "checker_note": null
           },
           {
+            "id": "10050604",
             "type": "ភូមិ",
             "code": "10050604",
             "english": "KroNhoung Sen Chey Khang Cheoung",
@@ -2227,6 +2466,7 @@
     ]
   },
   {
+    "id": "1006",
     "type": "ស្រុក",
     "code": "1006",
     "english": "Chetr Borei",
@@ -2236,6 +2476,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100601",
         "type": "ឃុំ",
         "code": "100601",
         "english": "Bos Leav",
@@ -2245,6 +2486,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060101",
             "type": "ភូមិ",
             "code": "10060101",
             "english": "Bos Leav Kraom",
@@ -2254,6 +2496,7 @@
             "checker_note": null
           },
           {
+            "id": "10060102",
             "type": "ភូមិ",
             "code": "10060102",
             "english": "Bos Leav Leu",
@@ -2263,6 +2506,7 @@
             "checker_note": null
           },
           {
+            "id": "10060103",
             "type": "ភូមិ",
             "code": "10060103",
             "english": "Lvea Tong",
@@ -2272,6 +2516,7 @@
             "checker_note": null
           },
           {
+            "id": "10060104",
             "type": "ភូមិ",
             "code": "10060104",
             "english": "Preah Konlong",
@@ -2281,6 +2526,7 @@
             "checker_note": null
           },
           {
+            "id": "10060105",
             "type": "ភូមិ",
             "code": "10060105",
             "english": "Preaek Kov",
@@ -2290,6 +2536,7 @@
             "checker_note": null
           },
           {
+            "id": "10060106",
             "type": "ភូមិ",
             "code": "10060106",
             "english": "Preaek Ta Am",
@@ -2299,6 +2546,7 @@
             "checker_note": null
           },
           {
+            "id": "10060107",
             "type": "ភូមិ",
             "code": "10060107",
             "english": "Preaek Ta Thoeng",
@@ -2308,6 +2556,7 @@
             "checker_note": null
           },
           {
+            "id": "10060108",
             "type": "ភូមិ",
             "code": "10060108",
             "english": "Ta Lus",
@@ -2317,6 +2566,7 @@
             "checker_note": null
           },
           {
+            "id": "10060109",
             "type": "ភូមិ",
             "code": "10060109",
             "english": "Phour",
@@ -2328,6 +2578,7 @@
         ]
       },
       {
+        "id": "100602",
         "type": "ឃុំ",
         "code": "100602",
         "english": "Changkrang",
@@ -2337,6 +2588,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060201",
             "type": "ភូមិ",
             "code": "10060201",
             "english": "Changkrang",
@@ -2346,6 +2598,7 @@
             "checker_note": null
           },
           {
+            "id": "10060202",
             "type": "ភូមិ",
             "code": "10060202",
             "english": "Kasang",
@@ -2355,6 +2608,7 @@
             "checker_note": null
           },
           {
+            "id": "10060203",
             "type": "ភូមិ",
             "code": "10060203",
             "english": "Laor",
@@ -2364,6 +2618,7 @@
             "checker_note": null
           },
           {
+            "id": "10060204",
             "type": "ភូមិ",
             "code": "10060204",
             "english": "Trapaeng Traeng",
@@ -2373,6 +2628,7 @@
             "checker_note": null
           },
           {
+            "id": "10060205",
             "type": "ភូមិ",
             "code": "10060205",
             "english": "Phnom Dek Plerng",
@@ -2384,6 +2640,7 @@
         ]
       },
       {
+        "id": "100603",
         "type": "ឃុំ",
         "code": "100603",
         "english": "Dar",
@@ -2393,6 +2650,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060301",
             "type": "ភូមិ",
             "code": "10060301",
             "english": "Anhchanh",
@@ -2402,6 +2660,7 @@
             "checker_note": null
           },
           {
+            "id": "10060302",
             "type": "ភូមិ",
             "code": "10060302",
             "english": "Chuor Chrey",
@@ -2411,6 +2670,7 @@
             "checker_note": null
           },
           {
+            "id": "10060303",
             "type": "ភូមិ",
             "code": "10060303",
             "english": "Dar",
@@ -2420,6 +2680,7 @@
             "checker_note": null
           },
           {
+            "id": "10060304",
             "type": "ភូមិ",
             "code": "10060304",
             "english": "Khnang Pos",
@@ -2429,6 +2690,7 @@
             "checker_note": null
           },
           {
+            "id": "10060305",
             "type": "ភូមិ",
             "code": "10060305",
             "english": "Khsar",
@@ -2438,6 +2700,7 @@
             "checker_note": null
           },
           {
+            "id": "10060306",
             "type": "ភូមិ",
             "code": "10060306",
             "english": "Mreum",
@@ -2447,6 +2710,7 @@
             "checker_note": null
           },
           {
+            "id": "10060307",
             "type": "ភូមិ",
             "code": "10060307",
             "english": "Sereipheap",
@@ -2456,6 +2720,7 @@
             "checker_note": null
           },
           {
+            "id": "10060308",
             "type": "ភូមិ",
             "code": "10060308",
             "english": "Stueng Svay",
@@ -2465,6 +2730,7 @@
             "checker_note": null
           },
           {
+            "id": "10060309",
             "type": "ភូមិ",
             "code": "10060309",
             "english": "Ta Nguon",
@@ -2474,6 +2740,7 @@
             "checker_note": null
           },
           {
+            "id": "10060310",
             "type": "ភូមិ",
             "code": "10060310",
             "english": "Ou Korki",
@@ -2485,6 +2752,7 @@
         ]
       },
       {
+        "id": "100604",
         "type": "ឃុំ",
         "code": "100604",
         "english": "Kantuot",
@@ -2494,6 +2762,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060401",
             "type": "ភូមិ",
             "code": "10060401",
             "english": "A Loch",
@@ -2503,6 +2772,7 @@
             "checker_note": null
           },
           {
+            "id": "10060402",
             "type": "ភូមិ",
             "code": "10060402",
             "english": "Antong Vien",
@@ -2512,6 +2782,7 @@
             "checker_note": null
           },
           {
+            "id": "10060403",
             "type": "ភូមិ",
             "code": "10060403",
             "english": "Chrava",
@@ -2521,6 +2792,7 @@
             "checker_note": null
           },
           {
+            "id": "10060404",
             "type": "ភូមិ",
             "code": "10060404",
             "english": "Kantuot",
@@ -2530,6 +2802,7 @@
             "checker_note": null
           },
           {
+            "id": "10060405",
             "type": "ភូមិ",
             "code": "10060405",
             "english": "Srae Non",
@@ -2539,6 +2812,7 @@
             "checker_note": null
           },
           {
+            "id": "10060406",
             "type": "ភូមិ",
             "code": "10060406",
             "english": "Angkrong",
@@ -2550,6 +2824,7 @@
         ]
       },
       {
+        "id": "100605",
         "type": "ឃុំ",
         "code": "100605",
         "english": "Kou Loab",
@@ -2559,6 +2834,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060501",
             "type": "ភូមិ",
             "code": "10060501",
             "english": "Banteay",
@@ -2568,6 +2844,7 @@
             "checker_note": null
           },
           {
+            "id": "10060502",
             "type": "ភូមិ",
             "code": "10060502",
             "english": "Chrava",
@@ -2577,6 +2854,7 @@
             "checker_note": null
           },
           {
+            "id": "10060503",
             "type": "ភូមិ",
             "code": "10060503",
             "english": "Kambaor",
@@ -2586,6 +2864,7 @@
             "checker_note": null
           },
           {
+            "id": "10060504",
             "type": "ភូមិ",
             "code": "10060504",
             "english": "Kou Loab",
@@ -2595,6 +2874,7 @@
             "checker_note": null
           },
           {
+            "id": "10060505",
             "type": "ភូមិ",
             "code": "10060505",
             "english": "Samret",
@@ -2606,6 +2886,7 @@
         ]
       },
       {
+        "id": "100606",
         "type": "ឃុំ",
         "code": "100606",
         "english": "Kaoh Chraeng",
@@ -2615,6 +2896,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060601",
             "type": "ភូមិ",
             "code": "10060601",
             "english": "Kandal",
@@ -2624,6 +2906,7 @@
             "checker_note": null
           },
           {
+            "id": "10060602",
             "type": "ភូមិ",
             "code": "10060602",
             "english": "Kbal Kaoh",
@@ -2633,6 +2916,7 @@
             "checker_note": null
           },
           {
+            "id": "10060603",
             "type": "ភូមិ",
             "code": "10060603",
             "english": "Preaek",
@@ -2642,6 +2926,7 @@
             "checker_note": null
           },
           {
+            "id": "10060604",
             "type": "ភូមិ",
             "code": "10060604",
             "english": "Roka Khnor",
@@ -2651,6 +2936,7 @@
             "checker_note": null
           },
           {
+            "id": "10060605",
             "type": "ភូមិ",
             "code": "10060605",
             "english": "Voat",
@@ -2662,6 +2948,7 @@
         ]
       },
       {
+        "id": "100607",
         "type": "ឃុំ",
         "code": "100607",
         "english": "Sambok",
@@ -2671,6 +2958,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060701",
             "type": "ភូមិ",
             "code": "10060701",
             "english": "Boeng Run",
@@ -2680,6 +2968,7 @@
             "checker_note": null
           },
           {
+            "id": "10060702",
             "type": "ភូមិ",
             "code": "10060702",
             "english": "Kakot",
@@ -2689,6 +2978,7 @@
             "checker_note": null
           },
           {
+            "id": "10060703",
             "type": "ភូមិ",
             "code": "10060703",
             "english": "Kbal Chuor",
@@ -2698,6 +2988,7 @@
             "checker_note": null
           },
           {
+            "id": "10060704",
             "type": "ភូមិ",
             "code": "10060704",
             "english": "Sambok",
@@ -2707,6 +2998,7 @@
             "checker_note": null
           },
           {
+            "id": "10060705",
             "type": "ភូមិ",
             "code": "10060705",
             "english": "SraeTa Haen",
@@ -2716,6 +3008,7 @@
             "checker_note": null
           },
           {
+            "id": "10060706",
             "type": "ភូមិ",
             "code": "10060706",
             "english": "Sambaktean Kakot",
@@ -2725,6 +3018,7 @@
             "checker_note": null
           },
           {
+            "id": "10060707",
             "type": "ភូមិ",
             "code": "10060707",
             "english": "Sambaktean Kampi",
@@ -2734,6 +3028,7 @@
             "checker_note": null
           },
           {
+            "id": "10060708",
             "type": "ភូមិ",
             "code": "10060708",
             "english": "Kampi",
@@ -2745,6 +3040,7 @@
         ]
       },
       {
+        "id": "100608",
         "type": "ឃុំ",
         "code": "100608",
         "english": "Thma Andaeuk",
@@ -2754,6 +3050,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060801",
             "type": "ភូមិ",
             "code": "10060801",
             "english": "Chour Krouch",
@@ -2763,6 +3060,7 @@
             "checker_note": null
           },
           {
+            "id": "10060802",
             "type": "ភូមិ",
             "code": "10060802",
             "english": "Damnak Sasar",
@@ -2772,6 +3070,7 @@
             "checker_note": null
           },
           {
+            "id": "10060803",
             "type": "ភូមិ",
             "code": "10060803",
             "english": "L'ak",
@@ -2781,6 +3080,7 @@
             "checker_note": null
           },
           {
+            "id": "10060804",
             "type": "ភូមិ",
             "code": "10060804",
             "english": "Sampung",
@@ -2790,6 +3090,7 @@
             "checker_note": null
           },
           {
+            "id": "10060805",
             "type": "ភូមិ",
             "code": "10060805",
             "english": "Serei Sokha",
@@ -2799,6 +3100,7 @@
             "checker_note": null
           },
           {
+            "id": "10060806",
             "type": "ភូមិ",
             "code": "10060806",
             "english": "Srae Doung",
@@ -2810,6 +3112,7 @@
         ]
       },
       {
+        "id": "100609",
         "type": "ឃុំ",
         "code": "100609",
         "english": "Thma Kreae",
@@ -2819,6 +3122,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10060901",
             "type": "ភូមិ",
             "code": "10060901",
             "english": "Ruessei Char",
@@ -2828,6 +3132,7 @@
             "checker_note": null
           },
           {
+            "id": "10060902",
             "type": "ភូមិ",
             "code": "10060902",
             "english": "Thma Krae Kandal",
@@ -2837,6 +3142,7 @@
             "checker_note": null
           },
           {
+            "id": "10060903",
             "type": "ភូមិ",
             "code": "10060903",
             "english": "Thma Krae Leu",
@@ -2848,6 +3154,7 @@
         ]
       },
       {
+        "id": "100610",
         "type": "ឃុំ",
         "code": "100610",
         "english": "Thmei",
@@ -2857,6 +3164,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10061001",
             "type": "ភូមិ",
             "code": "10061001",
             "english": "Chranaol",
@@ -2866,6 +3174,7 @@
             "checker_note": null
           },
           {
+            "id": "10061002",
             "type": "ភូមិ",
             "code": "10061002",
             "english": "Khnach",
@@ -2875,6 +3184,7 @@
             "checker_note": null
           },
           {
+            "id": "10061003",
             "type": "ភូមិ",
             "code": "10061003",
             "english": "Krasang",
@@ -2884,6 +3194,7 @@
             "checker_note": null
           },
           {
+            "id": "10061004",
             "type": "ភូមិ",
             "code": "10061004",
             "english": "Mean Chey",
@@ -2893,6 +3204,7 @@
             "checker_note": null
           },
           {
+            "id": "10061005",
             "type": "ភូមិ",
             "code": "10061005",
             "english": "B'ier",
@@ -2902,6 +3214,7 @@
             "checker_note": null
           },
           {
+            "id": "10061006",
             "type": "ភូមិ",
             "code": "10061006",
             "english": "Svay Chrum",
@@ -2911,6 +3224,7 @@
             "checker_note": null
           },
           {
+            "id": "10061007",
             "type": "ភូមិ",
             "code": "10061007",
             "english": "Thmei",
@@ -2920,6 +3234,7 @@
             "checker_note": null
           },
           {
+            "id": "10061008",
             "type": "ភូមិ",
             "code": "10061008",
             "english": "Tnaot",
@@ -2929,6 +3244,7 @@
             "checker_note": null
           },
           {
+            "id": "10061009",
             "type": "ភូមិ",
             "code": "10061009",
             "english": "Treab",
@@ -2938,6 +3254,7 @@
             "checker_note": null
           },
           {
+            "id": "10061010",
             "type": "ភូមិ",
             "code": "10061010",
             "english": "Veal Sambour",
@@ -2947,6 +3264,7 @@
             "checker_note": null
           },
           {
+            "id": "10061011",
             "type": "ភូមិ",
             "code": "10061011",
             "english": "105",
@@ -2956,6 +3274,7 @@
             "checker_note": null
           },
           {
+            "id": "10061012",
             "type": "ភូមិ",
             "code": "10061012",
             "english": "Chamrouen",
@@ -2969,6 +3288,7 @@
     ]
   },
   {
+    "id": "1007",
     "type": "ស្រុក",
     "code": "1007",
     "english": "Or Krieng Saenchay",
@@ -2978,6 +3298,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "100701",
         "type": "ឃុំ",
         "code": "100701",
         "english": "Kbal Damrei",
@@ -2987,6 +3308,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10070101",
             "type": "ភូមិ",
             "code": "10070101",
             "english": "Changhab",
@@ -2996,6 +3318,7 @@
             "checker_note": null
           },
           {
+            "id": "10070102",
             "type": "ភូមិ",
             "code": "10070102",
             "english": "Ou Pur",
@@ -3005,6 +3328,7 @@
             "checker_note": null
           },
           {
+            "id": "10070103",
             "type": "ភូមិ",
             "code": "10070103",
             "english": "Ou Ta Noeng",
@@ -3014,6 +3338,7 @@
             "checker_note": null
           },
           {
+            "id": "10070104",
             "type": "ភូមិ",
             "code": "10070104",
             "english": "Srae Sbov",
@@ -3023,6 +3348,7 @@
             "checker_note": null
           },
           {
+            "id": "10070105",
             "type": "ភូមិ",
             "code": "10070105",
             "english": "Srae Traeng",
@@ -3034,6 +3360,7 @@
         ]
       },
       {
+        "id": "100702",
         "type": "ឃុំ",
         "code": "100702",
         "english": "Ou Krieng",
@@ -3043,6 +3370,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10070201",
             "type": "ភូមិ",
             "code": "10070201",
             "english": "Kaoh Khnhaer",
@@ -3052,6 +3380,7 @@
             "checker_note": null
           },
           {
+            "id": "10070202",
             "type": "ភូមិ",
             "code": "10070202",
             "english": "Khsach Leav",
@@ -3061,6 +3390,7 @@
             "checker_note": null
           },
           {
+            "id": "10070203",
             "type": "ភូមិ",
             "code": "10070203",
             "english": "Ou Kak",
@@ -3070,6 +3400,7 @@
             "checker_note": null
           },
           {
+            "id": "10070204",
             "type": "ភូមិ",
             "code": "10070204",
             "english": "Ou Krieng",
@@ -3079,6 +3410,7 @@
             "checker_note": null
           },
           {
+            "id": "10070205",
             "type": "ភូមិ",
             "code": "10070205",
             "english": "Pon Chea",
@@ -3090,6 +3422,7 @@
         ]
       },
       {
+        "id": "100703",
         "type": "ឃុំ",
         "code": "100703",
         "english": "Oukondear Senchey",
@@ -3099,6 +3432,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10070301",
             "type": "ភូមិ",
             "code": "10070301",
             "english": "Ou Preah",
@@ -3108,6 +3442,7 @@
             "checker_note": null
           },
           {
+            "id": "10070302",
             "type": "ភូមិ",
             "code": "10070302",
             "english": "Ou Kondear",
@@ -3117,6 +3452,7 @@
             "checker_note": null
           },
           {
+            "id": "10070303",
             "type": "ភូមិ",
             "code": "10070303",
             "english": "Phnom Khiev",
@@ -3128,6 +3464,7 @@
         ]
       },
       {
+        "id": "100704",
         "type": "ឃុំ",
         "code": "100704",
         "english": "Roluos Mean Chey",
@@ -3137,6 +3474,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10070401",
             "type": "ភូមិ",
             "code": "10070401",
             "english": "Paklae",
@@ -3146,6 +3484,7 @@
             "checker_note": null
           },
           {
+            "id": "10070402",
             "type": "ភូមិ",
             "code": "10070402",
             "english": "Roluos",
@@ -3155,6 +3494,7 @@
             "checker_note": null
           },
           {
+            "id": "10070403",
             "type": "ភូមិ",
             "code": "10070403",
             "english": "Srae Chhuk",
@@ -3164,6 +3504,7 @@
             "checker_note": null
           },
           {
+            "id": "10070404",
             "type": "ភូមិ",
             "code": "10070404",
             "english": "Toung",
@@ -3173,6 +3514,7 @@
             "checker_note": null
           },
           {
+            "id": "10070405",
             "type": "ភូមិ",
             "code": "10070405",
             "english": "Ou Ontraeng",
@@ -3182,6 +3524,7 @@
             "checker_note": null
           },
           {
+            "id": "10070406",
             "type": "ភូមិ",
             "code": "10070406",
             "english": "Saen Chey",
@@ -3193,6 +3536,7 @@
         ]
       },
       {
+        "id": "100705",
         "type": "ឃុំ",
         "code": "100705",
         "english": "Srae Chis",
@@ -3202,6 +3546,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "10070501",
             "type": "ភូមិ",
             "code": "10070501",
             "english": "Ampok",
@@ -3211,6 +3556,7 @@
             "checker_note": null
           },
           {
+            "id": "10070502",
             "type": "ភូមិ",
             "code": "10070502",
             "english": "Koun Va",
@@ -3220,6 +3566,7 @@
             "checker_note": null
           },
           {
+            "id": "10070503",
             "type": "ភូមិ",
             "code": "10070503",
             "english": "Phnum Pir",
@@ -3229,6 +3576,7 @@
             "checker_note": null
           },
           {
+            "id": "10070504",
             "type": "ភូមិ",
             "code": "10070504",
             "english": "Rovieng",
@@ -3238,6 +3586,7 @@
             "checker_note": null
           },
           {
+            "id": "10070505",
             "type": "ភូមិ",
             "code": "10070505",
             "english": "Srae Chis",
@@ -3247,6 +3596,7 @@
             "checker_note": null
           },
           {
+            "id": "10070506",
             "type": "ភូមិ",
             "code": "10070506",
             "english": "Tnaot",

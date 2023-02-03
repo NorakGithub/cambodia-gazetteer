@@ -1,5 +1,6 @@
 [
   {
+    "id": "2301",
     "type": "ស្រុក",
     "code": "2301",
     "english": "Damnak Chang'aeur",
@@ -9,6 +10,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "230101",
         "type": "ឃុំ",
         "code": "230101",
         "english": "Angkaol",
@@ -18,6 +20,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "23010101",
             "type": "ភូមិ",
             "code": "23010101",
             "english": "Ampeng",
@@ -27,6 +30,7 @@
             "checker_note": null
           },
           {
+            "id": "23010102",
             "type": "ភូមិ",
             "code": "23010102",
             "english": "Tuol Sangam",
@@ -36,6 +40,7 @@
             "checker_note": null
           },
           {
+            "id": "23010103",
             "type": "ភូមិ",
             "code": "23010103",
             "english": "Kaoh Saom",
@@ -45,6 +50,7 @@
             "checker_note": null
           },
           {
+            "id": "23010104",
             "type": "ភូមិ",
             "code": "23010104",
             "english": "Angkaol",
@@ -56,6 +62,7 @@
         ]
       },
       {
+        "id": "230103",
         "type": "ឃុំ",
         "code": "230103",
         "english": "Pong Tuek",
@@ -65,6 +72,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "23010301",
             "type": "ភូមិ",
             "code": "23010301",
             "english": "Ou Doung",
@@ -74,6 +82,7 @@
             "checker_note": null
           },
           {
+            "id": "23010302",
             "type": "ភូមិ",
             "code": "23010302",
             "english": "Prey Ta Koy",
@@ -83,6 +92,7 @@
             "checker_note": null
           },
           {
+            "id": "23010303",
             "type": "ភូមិ",
             "code": "23010303",
             "english": "Phnum Leav",
@@ -92,6 +102,7 @@
             "checker_note": null
           },
           {
+            "id": "23010304",
             "type": "ភូមិ",
             "code": "23010304",
             "english": "Rones",
@@ -101,6 +112,7 @@
             "checker_note": null
           },
           {
+            "id": "23010305",
             "type": "ភូមិ",
             "code": "23010305",
             "english": "Chamkar Bei",
@@ -110,6 +122,7 @@
             "checker_note": null
           },
           {
+            "id": "23010306",
             "type": "ភូមិ",
             "code": "23010306",
             "english": "Chamka Chek",
@@ -119,6 +132,7 @@
             "checker_note": null
           },
           {
+            "id": "23010307",
             "type": "ភូមិ",
             "code": "23010307",
             "english": "Antung Sar",
@@ -132,6 +146,7 @@
     ]
   },
   {
+    "id": "2302",
     "type": "ក្រុង",
     "code": "2302",
     "english": "Kaeb",
@@ -141,6 +156,7 @@
     "checker_note": null,
     "communes": [
       {
+        "id": "230201",
         "type": "សង្កាត់",
         "code": "230201",
         "english": "Kaeb",
@@ -150,6 +166,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "23020101",
             "type": "ភូមិ",
             "code": "23020101",
             "english": "Kaeb",
@@ -159,6 +176,7 @@
             "checker_note": null
           },
           {
+            "id": "23020102",
             "type": "ភូមិ",
             "code": "23020102",
             "english": "Kaev Krasang",
@@ -170,6 +188,7 @@
         ]
       },
       {
+        "id": "230202",
         "type": "សង្កាត់",
         "code": "230202",
         "english": "Prey Thum",
@@ -179,6 +198,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "23020201",
             "type": "ភូមិ",
             "code": "23020201",
             "english": "Damnak Chang'aeur",
@@ -188,6 +208,7 @@
             "checker_note": null
           },
           {
+            "id": "23020202",
             "type": "ភូមិ",
             "code": "23020202",
             "english": "Kampong Tralach",
@@ -197,6 +218,7 @@
             "checker_note": null
           },
           {
+            "id": "23020203",
             "type": "ភូមិ",
             "code": "23020203",
             "english": "Thmei",
@@ -208,6 +230,7 @@
         ]
       },
       {
+        "id": "230203",
         "type": "សង្កាត់",
         "code": "230203",
         "english": "Ou Krasar",
@@ -217,6 +240,7 @@
         "checker_note": null,
         "villages": [
           {
+            "id": "23020301",
             "type": "ភូមិ",
             "code": "23020301",
             "english": "Ou Krasar",
@@ -226,6 +250,7 @@
             "checker_note": null
           },
           {
+            "id": "23020302",
             "type": "ភូមិ",
             "code": "23020302",
             "english": "Damnak Chambak",
